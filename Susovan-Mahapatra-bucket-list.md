@@ -14,7 +14,7 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Run a Marathon
 
--~Start a blog~
+~Start a blog~
 
 - Go Backpacking in Europe 
 
@@ -22,9 +22,9 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Build a scalable business
 
--~Visit London~
+~Visit London~
 
--~Fall in love~
+~Fall in love~
 
 - Have a library at home
 
@@ -36,6 +36,6 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Learn how to invest(Create wealth?)
 
--~Work with a startup~
+~Work with a startup~
 
 - Cook a 3 course meal for family
