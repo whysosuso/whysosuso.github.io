@@ -4,7 +4,7 @@ title: Based On A True Story
 published: true
 ---
 
-### Preface
+#### Preface
 
 It was 6 in the morning when the bus reached Sonipat. As I got off and bid farewell to what had been my ride for the last 9 hours or so, a soft, cool breeze hit me, rekindling a series of happy memories. It was as if I was dancing, with my mood swinging between happy and sad. I was happy because I had just completed my first solo trip, and sad because the trip was over. Between the outflow of emotions, suddenly fear joined the party. It had just occurred to me that it’s 6 in the morning, which meant that there would be no people around on the track that led to my college. Best plot for the stray dogs to attack. In the next 10 minutes, I evaluated my odds of reaching safe and finally gathered some courage, walking straight to the Campus with a blank face. On my way, I indeed was greeted by the dreaded canines, but they didn’t seem to care much, looking rather cute to be harmful. I thanked God(?) for being kind that morning and danced my way into the campus.
 
@@ -12,7 +12,7 @@ It was 6 in the morning when the bus reached Sonipat. As I got off and bid farew
 
 The last few days had seen a similar cycle of emotions. I switched between​ being happy and sad after my summer break started, planning my first solo trip(to a random unknown place) alongside and finally fighting through all apprehensions to complete the trip. Here’s my story…
 
-### Chapter 1: The sleeper class
+#### Chapter 1: The sleeper class
 
 It all began with the end of my sophomore year at college. Having made my peace with the expected average grades, I was sort of excited about the three months vacation that lay ahead. While the holidays kicked off on the 13th of May, I had another three weeks before I could leave for home because of a programme I was a part of. With most of my friends leaving, and homesickness trying to take over my happy mind space, I started fiddling around with the idea of the solo trip that was long due.
 
@@ -25,7 +25,7 @@ I left campus early in the morning to reach the Old Delhi Station from where I w
 
 I woke up early enough to see the rising sun as I walked across the neighbourhood of my hotel. To my surprise, with the daylight in action, Pathankot looked just like any other Indian city, ever energetic and bustling with people. Perhaps, it was my apprehension about the trip that gave way to all the dark thoughts the past night. With the rejuvenated excitement, I checked out of the hotel and got my ticket to travel across the valley!
 
-### Chapter 2: In the First Compartment
+#### Chapter 2: In the First Compartment
 
 ![The elegant engine. Clicked on 16–05–2017]({{site.baseurl}}/images/Based on a true story_3.jpeg)
 
@@ -40,7 +40,7 @@ The idea of the same thing being something otherworldly for me while being consi
 
 As the train lazily arrived at my final station and I got off and waited for it to leave. Just like the kids, I waved at the train one last time, thanking it for the amazing experience, and then headed into the city…
 
-### Chapter 3: The Ruins of Kangra
+#### Chapter 3: The Ruins of Kangra
 
 ![The ruins of the Kangra Fort. Clicked on 17–05–2017.]({{site.baseurl}}/images/Based%20on%20a%20true%20story_4.jpeg)
 
@@ -52,10 +52,10 @@ I hiked up the fort listening to an audio guide that(although annoying at times)
 
 I climbed on to the terrace and was greeted by a spectacular view of the entire valley and the city that lay a few hundred meters away. I could only imagine what it would have been to live in a palace such beautifully nestled amidst the maginificent Kangra valley… As I stood there, scenes from my short Himalayan trip flashed by me, I indeed felt like a King who had it all…had the fort and had Kangra!
 
-### Epilogue
+#### Epilogue
 
 I have always loved nature. It started with the trees and has now expanded into the waters, mountains, and skies with each interaction. I am not the kind of lover who remembers their names, indeed pretty forgetful. I know them by the looks though, but even that gets complicated as there are just so many of the beautiful ones out there.
 
 One thing I have observed about my relationship with nature is that the distance has been growing between the two of us. The night sky does not glitter with the stars I loved the most in the dusty town I live in these days, neither do the greens of the trees dance with the blowing wind. I have travelled to quite a few places in the last two years of college, and many of them have been just to meet my dearest nature, as it has gone beyond the reach of a small walk from me. This short vacation too was an attempt to visit the greens, the glittering skies, the magnificent mountains and the graceful waters of the rivers.
 
-Does it hurt to live so far away from all of the things I love dearly? Yes. So much for the comfort of modern technology? As I wait for my next trip to some place where nature is, I cannot help but ponder on a question, ‘What good is all the concrete if it doesn’t have space for my greens and shuns away the night stars?’ I do not know and may be I never will. Do you?
+Does it hurt to live so far away from all of the things I love dearly? Yes. So much for the comfort our our cities plagued with modernity. As I wait for my next trip to some place where nature is, I cannot help but ponder on a question, ‘What good is all the concrete if it doesn’t have space for my greens and shuns away the night stars?’ I do not know and may be I never will. Do you?
