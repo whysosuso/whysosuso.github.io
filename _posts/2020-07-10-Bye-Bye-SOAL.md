@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Bye Bye SOAL!
+published: true
 ---
 
-<p>Thank you for everything, Team!</p><p>Signing off!</p><p>Suso@SOAL(June17 '19- July10 '20)</p>
+Thank you for everything, Team! Signing off!
+
+-_Suso@SOAL_(June17 '19- July10 '20)
