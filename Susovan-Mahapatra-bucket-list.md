@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Things to do before I die
 permalink: /Susovan-Mahapatra-bucket-list/
 ---
 
-<h1>Things to do before I die</h1>
+
 
