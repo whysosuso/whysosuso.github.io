@@ -8,7 +8,7 @@ published: true
 
 It was 6 in the morning when the bus reached Sonipat. As I got off and bid farewell to what had been my ride for the last 9 hours or so, a soft, cool breeze hit me, rekindling a series of happy memories. It was as if I was dancing, with my mood swinging between happy and sad. I was happy because I had just completed my first solo trip, and sad because the trip was over. Between the outflow of emotions, suddenly fear joined the party. It had just occurred to me that it’s 6 in the morning, which meant that there would be no people around on the track that led to my college. Best plot for the stray dogs to attack. In the next 10 minutes, I evaluated my odds of reaching safe and finally gathered some courage, walking straight to the Campus with a blank face. On my way, I indeed was greeted by the dreaded canines, but they didn’t seem to care much, looking rather cute to be harmful. I thanked God(?) for being kind that morning and danced my way into the campus.
 
-![Ashoka University at 6 AM. Clicked on 18–05–2017.]({{site.baseurl}}/images/Based on a true story_1.jpeg)
+![Ashoka University at 6 AM. Clicked on 18–05–2017.]({{site.baseurl}}/images/Based on a true story_1.jpeg class="center")
 
 The last few days had seen a similar cycle of emotions. I switched between​ being happy and sad after my summer break started, planning my first solo trip(to a random unknown place) alongside and finally fighting through all apprehensions to complete the trip. Here’s my story…
 
