@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Based On A True Story- A Trip To Kangra
+title: Based On A True Story- <i>Kangra Valley Railways</i>
 published: true
 ---
 
