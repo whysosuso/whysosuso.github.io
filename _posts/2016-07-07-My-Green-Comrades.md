@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Green comrades
+title: My Green Comrades
 published: true
 ---
 _**A short piece on my relationship with trees.**_
