@@ -8,7 +8,7 @@ published: true
 
 It was 6 in the morning when the bus reached Sonipat. As I got off and bid farewell to what had been my ride for the last 9 hours or so, a soft, cool breeze hit me, rekindling a series of happy memories. It was as if I was dancing, with my mood swinging between happy and sad. I was happy because I had just completed my first solo trip, and sad because the trip was over. Between the outflow of emotions, suddenly fear joined the party. It had just occurred to me that it’s 6 in the morning, which meant that there would be no people around on the track that led to my college. Best plot for the stray dogs to attack. In the next 10 minutes, I evaluated my odds of reaching safe and finally gathered some courage, walking straight to the Campus with a blank face. On my way, I indeed was greeted by the dreaded canines, but they didn’t seem to care much, looking rather cute to be harmful. I thanked God(?) for being kind that morning and danced my way into the campus.
 
-![Ashoka University at 6 AM. Clicked on 18–05–2017.]({{site.baseurl}}/_posts/Based on a true story_1.jpeg)
+![Ashoka University at 6 AM. Clicked on 18–05–2017..]({{site.baseurl}}/_images/Based on a true story_1.jpeg)
 
 The last few days had seen a similar cycle of emotions. I switched between​ being happy and sad after my summer break started, planning my first solo trip(to a random unknown place) alongside and finally fighting through all apprehensions to complete the trip. Here’s my story…
 
@@ -21,13 +21,13 @@ The plan was simple; I had to take a train from Delhi to Pathankot, from where t
 
 I left campus early in the morning to reach the Old Delhi Station from where I was to catch my train to Pathankot. This was the second time I was travelling in the sleeper class, which I have realised is the most efficient way to travel across India. The sleeper class is cheap, and the open windows and doors create a deeper sense of belonging with the journey, making every such journey a memorable experience. After several hours of gazing into green fields and busy railway stations, I reached Pathankot at around 7 in the evening. The only time I had heard about the city before starting this trip was when it had witnessed a terrorist attack in January, last year. This coupled with little to no lighting on the streets made that part of the city seem rather shady. The dirty linen and smallish hotel room just added to the shady image I had created of the city in my head, which was already scaring me out. Despite the negativity that had flared up in my mind, I managed to get a sound sleep through the night.
 
-![My unreserved ticket to Kangra from Pathankot. Clicked on 16–05–2017.]({{site.baseurl}}/_posts/Based on a true story_2.jpeg)
+![My unreserved ticket to Kangra from Pathankot. Clicked on 16–05–2017.]({{site.baseurl}}/_images/Based on a true story_2.jpeg)
 
 I woke up early enough to see the rising sun as I walked across the neighbourhood of my hotel. To my surprise, with the daylight in action, Pathankot looked just like any other Indian city, ever energetic and bustling with people. Perhaps, it was my apprehension about the trip that gave way to all the dark thoughts the past night. With the rejuvenated excitement, I checked out of the hotel and got my ticket to travel across the valley!
 
 ### Chapter 2: In the First Compartment
 
-![The elegant engine. Clicked on 16–05–2017]({{site.baseurl}}/_posts/Based on a true story_3.jpeg)
+![The elegant engine. Clicked on 16–05–2017]({{site.baseurl}}/_images/Based on a true story_3.jpeg)
 
 
 I found myself flaunting a broad smile when I first saw the ride that would take me to Kangra, a beautiful train. Unlike the regular passenger trains it had a diesel run engine that headed four compartments. The engine resembled one of those shown in cartoon shows, it was a real beauty, something you wouldn’t want to take your eyes off of. As it stood there, elegantly waiting to depart, I checked each of the four compartments for an empty seat before settling by the door of the first compartment, which would be my vantage point from where I was going to witness the spectacular Kangra Valley.
@@ -42,7 +42,7 @@ As the train lazily arrived at my final station and I got off and waited for it 
 
 ### Chapter 3: The Ruins of Kangra
 
-![The ruins of the Kangra Fort. Clicked on 17–05–2017.]({{site.baseurl}}/_posts/Based%20on%20a%20true%20story_4.jpeg)
+![The ruins of the Kangra Fort. Clicked on 17–05–2017.]({{site.baseurl}}/_images/Based%20on%20a%20true%20story_4.jpeg)
 
 It was a lazy Wednesday evening, and the rains had followed me from Pathankot to Kangra. Completely clueless on how to spend the 36 hours I had before my bus to Delhi, I crashed as soon as I reached my hotel room. As I woke up and exploited the complimentary hotel wifi, I discovered some fascinating facts. Apparently, Kangra was set up by the Katoch clan of the Rajputs, who claim to be the oldest surviving royal dynasty in India. As I explored further, I came to know about the Kangra fort, said to be the largest fort in the Himalayas and the oldest dated in India. My discovery had tingled the history buff in me, and I knew exactly what I had to do next!
 
