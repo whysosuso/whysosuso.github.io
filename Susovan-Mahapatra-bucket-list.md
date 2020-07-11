@@ -4,7 +4,7 @@ title: Things to do before I die
 permalink: /Susovan-Mahapatra-bucket-list/
 published: true
 ---
-These are things that I would like to do before I am gone for good. The only operating rule is that I am not allowed to delete anything from the list, things can only be added _(Hotel California plays in the background)_. This is a WIP.
+These are things that I would like to do before I am gone for good. The only operating rule is that I am not allowed to delete anything from the list, things can only be added _(Hotel California plays in the background)_. I started this when I was 20. 
 
 - Bungee Jumping
 
@@ -14,7 +14,7 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Run a Marathon
 
-~Start a blog~
+- **Start a blog**
 
 - Go Backpacking in Europe 
 
@@ -22,9 +22,9 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Build a scalable business
 
-~Visit London~
+- **Visit London**
 
-~Fall in love~
+- **Fall in love**
 
 - Have a library at home
 
@@ -36,6 +36,6 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Learn how to invest(Create wealth?)
 
-~Work with a startup~
+- **Work with a startup**
 
 - Cook a 3 course meal for family
