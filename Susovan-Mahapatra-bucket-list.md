@@ -22,6 +22,8 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Build a scalable business
 
+-~Visit London~
+
 -~Fall in love~
 
 - Have a library at home
