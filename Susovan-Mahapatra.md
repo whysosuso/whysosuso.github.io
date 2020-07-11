@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /Susovan-Mahapatra/
 ---
 I keep a running <i>[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)</i> of things I want to do before I die. 
