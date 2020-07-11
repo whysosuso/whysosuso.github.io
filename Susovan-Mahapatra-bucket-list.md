@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Susovan-Mahapatr-bucket-lista/
+permalink: /Susovan-Mahapatra-bucket-list/
 ---
 
 
