@@ -1,6 +1,5 @@
 ---
-layout: page
-title: null
+
 permalink: /Susovan-Mahapatra/
 published: true
 ---
