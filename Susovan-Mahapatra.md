@@ -4,12 +4,8 @@ title: About
 permalink: /Susovan-Mahapatra/
 ---
 
-<Building>
 
-### More Information
 
-<Building>
-
-### Contact me
+<b>Contact me</b>
 
 [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
