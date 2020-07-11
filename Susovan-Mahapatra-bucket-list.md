@@ -4,8 +4,5 @@ title: About
 permalink: /Susovan-Mahapatra-bucket-list/
 ---
 
+<h1>Things to do before I die</h1>
 
-
-<b>Contact me</b>
-
-[suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
