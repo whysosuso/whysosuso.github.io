@@ -24,6 +24,10 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - **Visit London**
 
+- Do a standup comedy set
+
+- Learn to play to harmocia 
+
 - **Fall in love**
 
 - Have a library at home
