@@ -3,7 +3,7 @@ layout: post
 title: My Green Comrades
 published: true
 ---
-_**A short piece on my relationship with trees.**_
+_**A short essay on my relationship with trees.**_
 
 I could never know what it was about the greens that got me hinged on to them. No, green has never been my favorite color, it was yellow, until one day when I found black better. However, trees and their greens are something that have been very dear to me. As a kid who grew up being an introvert, trees became my very first and closest confidants. Growing up in a small city meant I was closer to my special friends, surrounding me in different shapes and forms.
 
