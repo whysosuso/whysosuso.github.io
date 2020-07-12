@@ -24,7 +24,7 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - **Visit London**
 
-- Do a standup comedy set
+- Do a live standup comedy set
 
 - Learn to play harmocia 
 
