@@ -26,7 +26,7 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Do a standup comedy set
 
-- Learn to play to harmocia 
+- Learn to play harmocia 
 
 - **Fall in love**
 
@@ -39,6 +39,8 @@ These are things that I would like to do before I am gone for good. The only ope
 - Take parents on an international vacation 
 
 - Learn how to invest(Create wealth?)
+
+- Go to a music festival 
 
 - **Work with a startup**
 
