@@ -3,7 +3,7 @@ layout: post
 title: Based On A True Story
 published: true
 ---
-**_Back in 2017, right after the end of my freshman year at collge, I went on a short spontaneous trip to the Kangra Valley._**
+**_Back in 2017, right after the end of my freshman year at college, I went on a short spontaneous trip to the Kangra Valley._**
 
 #### Preface
 
