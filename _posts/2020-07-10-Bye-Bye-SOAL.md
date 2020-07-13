@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bye Bye SOAL!
-published: false
+published: true
 ---
 _**Thank you for everything, Team! Signing off!**_
 
