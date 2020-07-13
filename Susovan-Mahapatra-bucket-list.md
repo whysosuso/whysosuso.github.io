@@ -32,6 +32,10 @@ These are things that I would like to do before I am gone for good. The only ope
 
 - Have a library at home
 
+- Build the shelves for the library myself
+
+- Go on week long cycling trip 
+
 - Start a podcast/talkshow
 
 - Become a Board Member of Ashoka University
