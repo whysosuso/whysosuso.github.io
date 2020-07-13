@@ -4,7 +4,8 @@ title: Things to do before I die
 permalink: /Susovan-Mahapatra-bucket-list/
 published: true
 ---
-These are things that I would like to do before I am gone for good. The only operating rule is that I am not allowed to delete anything from the list, things can only be added _(Hotel California plays in the background)_. I started this when I was 20. 
+These are things that I would like to do before I am gone for good. 
+Operating rule is that I am not allowed to delete anything from the list, things can only be added _(Hotel California plays in the background)_. I started this running list when I was 20.
 
 - Bungee Jumping
 
