@@ -2,7 +2,7 @@
 permalink: /Susovan-Mahapatra/
 published: true
 ---
-Hi, I am Susovan Mahapatra. I am 23 years old and I live in Bhubaneswar. [WIP]
+Hi, I am Susovan Mahapatra. I am 23 years old and I am from Bhubaneswar. [WIP]
 
 ![Susovan_Mahapatra]({{site.baseurl}}/images/Susovan_Mahapatra.jpg)
 
