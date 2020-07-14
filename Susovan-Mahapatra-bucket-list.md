@@ -27,7 +27,7 @@ Operating rule is that I am not allowed to delete anything from the list, things
 
 - Do a live standup comedy set
 
-- Learn to play harmocia 
+- Learn to play the harmonica 
 
 - **Fall in love**
 
@@ -35,7 +35,7 @@ Operating rule is that I am not allowed to delete anything from the list, things
 
 - Build the shelves for the library myself
 
-- Go on week long cycling trip 
+- Go on a week long cycling trip 
 
 - Start a podcast/talkshow
 
@@ -43,7 +43,7 @@ Operating rule is that I am not allowed to delete anything from the list, things
 
 - Take parents on an international vacation 
 
-- Learn how to invest(Create wealth?)
+- Learn how to invest (create wealth?)
 
 - Go to a music festival 
 
