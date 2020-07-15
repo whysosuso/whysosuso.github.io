@@ -64,4 +64,6 @@ One thing I have observed about my relationship with nature is that the distance
 Does it hurt to live so far away from all of the things I love dearly? Yes. So much for the comfort our cities plagued with concrete. As I wait for my next trip to some place where nature is, I cannot help but ponder on a question, 'What good is all the concrete if it doesn’t have space for my greens and shuns away the night stars?' I do not know and there is a chance that I never will. Do you?
 
 
+
+
 **Thanks** to Varsha Ramachandran for reading drafts of this and helping with the edits. 
