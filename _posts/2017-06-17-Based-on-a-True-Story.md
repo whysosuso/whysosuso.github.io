@@ -62,3 +62,6 @@ I have always loved nature. It started with the trees and has now expanded into 
 One thing I have observed about my relationship with nature is that the distance has been growing between the two of us. The night sky does not glitter with the stars I loved the most in the dusty town I live in these days, neither do the greens of the trees dance with the blowing wind. I have travelled to quite a few places in the last two years of college, and many of them have been just to meet my dearest nature, as it has gone beyond the reach of a small walk from me. This short vacation too was an attempt to visit the greens, the glittering skies, the magnificent mountains and the graceful waters of the rivers.
 
 Does it hurt to live so far away from all of the things I love dearly? Yes. So much for the comfort our cities plagued with concrete. As I wait for my next trip to some place where nature is, I cannot help but ponder on a question, ‘What good is all the concrete if it doesn’t have space for my greens and shuns away the night stars?’ I do not know and may be I never will. Do you?
+
+
+**Thanks** to Varsha Ramachandran for reading drafts of this and helping with the edits. 
