@@ -5,7 +5,7 @@ permalink: /Susovan-Mahapatra-bucket-list/
 published: true
 ---
 These are things that I would like to do before I am gone for good. 
-Operating rule is that I am not allowed to delete anything from the list, things can only be added _(Hotel California plays in the background)_. I started this running list when I was 20.
+Operating rule is that I am not allowed to delete anything from the list, things can only be added _(Hotel California plays in the background)_. I started this running list when I was 20. The ones in <b>bold</b> are the ones that are ticked off! 
 
 - Bungee Jumping
 
