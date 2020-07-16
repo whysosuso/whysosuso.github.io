@@ -3,7 +3,9 @@ layout: post
 title: Never A Dull Day- <i>learnings from working at a start-up</i>
 published: true
 ---
+_**I started my career with an early-stage start-up and spent an exciting 14 months before I decided to move on. In this essay, I have put down some of my key learnings from the experience.**_
 
+----
 
 I joined a bootstrapped Edtech startup right after graduating from Ashoka University. It was a new city with new people around and new schedules to follow. It was no less of an adventure for me than the time I took a ride on the fastest roller coaster in the world. Only this time, instead of 1.4 minutes, it lasted a good 14 months. 
 
