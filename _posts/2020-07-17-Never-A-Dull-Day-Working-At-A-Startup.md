@@ -11,7 +11,7 @@ I joined a bootstrapped Edtech startup right after graduating from Ashoka Univer
 
 Here I compile some of my learnings from being a part of a startup and seeing it grow from being bootstrapped to receiving two rounds of funding. More so, I explore what one can expect before they dive in for a similar journey. As I try to recall, articulate and compile my learnings, there’s one thing that becomes very clear to me; there was never a dull day.
 
-###Find your buddy and invest in them 
+### Find your buddy and invest in them 
 
 An early-stage venture by nature is devoid of structures which makes the journey of an employee filled with chaos. While chaos does lead to creativity and eventually structures and patterns emerge, the stress around the chaos can be maddening at times. I was fortunate to have found people within the organisation with whom I could build relationships where there was ample space to discuss, deliberate and most importantly, vent. 
 
