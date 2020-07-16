@@ -8,7 +8,9 @@ Hi, I am Susovan Mahapatra. I am a 23 year old with a lot of ideas.
 
 I love conversations, chai, running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care. 
 
-I graduated from Ashoka University where I studied Economics and Internal Relations and served as a Resident Assistant for two terms among other things. After graduating, I joined the Growth Team of an early stage Edtech start-up called School of Accelerated Learning(SOAL). At SOAL, I worked across functions of Growth and got a flavour of how education, start-ups and Growth in start-ups work. I am currently working with Plaksha University in their Admissions and Oureach Team, figuring out the launch of Plaksha's first Undergraduate Batch in 2021.
+I graduated from Ashoka University where I studied Economics and Internal Relations and served as a Resident Assistant for two terms among other things. After graduating, I joined the Growth Team of an early stage Edtech start-up called School of Accelerated Learning(SOAL). At SOAL, I worked across functions of Growth and got a flavour of how education, start-ups and Growth in start-ups work. 
+
+I am currently working with Plaksha University in their Admissions and Oureach Team, figuring out the launch of Plaksha's first Undergraduate Batch in 2021.
 
 I wish to start my own venture some day soon. 
 
