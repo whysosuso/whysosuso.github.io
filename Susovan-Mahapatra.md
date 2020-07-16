@@ -4,7 +4,7 @@ published: true
 ---
 Hi, I am Susovan Mahapatra. I am a 23 year old with a lot of ideas. 
 
-I love conversations, chai, running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
+I love conversations, thinking, chai, running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
 ![Susovan_Mahapatra]({{site.baseurl}}/images/Susovan_Mahapatra.jpg)
 
