@@ -10,7 +10,7 @@ I love conversations, thinking, chai, running, cycling, reading and consuming co
 
 I graduated from Ashoka University where I studied Economics and Internal Relations and served as a Resident Assistant for two terms among other things. After graduating, I joined the Growth Team of an early stage Edtech start-up called School of Accelerated Learning(SOAL). At SOAL, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work in India. 
 
-I am currently working with Plaksha University in their Admissions and Outreach Team. Here, team is figuring out the launch of Plaksha's first-ever Undergraduate Batch in 2021.
+I am currently working with Plaksha University in their Admissions and Outreach Team. Here, I am working to understand the nuances of the formal higher education space in the country.
 
 I wish to start my own venture some day soon. 
 
