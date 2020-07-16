@@ -68,4 +68,4 @@ Does it hurt to live so far away from all of the things I love dearly? Yes. So m
 
 
 
-**Thanks** to Varsha Ramachandran for reading drafts of this and helping with the edits.
+**Thanks** to Varsha Ramachandran for reading drafts of this story and helping with the edits.
