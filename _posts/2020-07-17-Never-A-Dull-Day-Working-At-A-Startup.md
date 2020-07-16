@@ -1,7 +1,9 @@
 ---
-published: false
+layout: post
+title: Never A Dull Day- Learnings From Working At A Start-up
+published: true
 ---
-## Never A Dull Day- Learnings From Working At A Start-up
+
 
 I joined a bootstrapped Edtech startup right after graduating from Ashoka University. It was a new city with new people around and new schedules to follow. It was no less of an adventure for me than the time I took a ride on the fastest roller coaster in the world. Only this time, instead of 1.4 minutes, it lasted a good 14 months. 
 
