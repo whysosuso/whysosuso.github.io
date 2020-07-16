@@ -4,16 +4,15 @@ published: true
 ---
 Hi, I am Susovan Mahapatra. I am a 23 year old with a lot of ideas. 
 
+![Susovan_Mahapatra]({{site.baseurl}}/images/Susovan_Mahapatra.jpg)
+
 I use this space to put structure to my thoughts and share it with people who care. I love conversations, chai, running, cycling, reading and consuming comedy.
 
 I graduated from Ashoka University where I studied Economics and Internal Relations and served as a Resident Assistant for two terms among other things. After graduating, I joined the Growth Team of an early stage Edtech start-up called School of Accelerated Learning(SOAL). At SOAL, I worked across functions of Growth and got a flavour of how education, start-ups and Growth in start-ups work. I am currently working with Plaksha University in their Admissions and Oureach Team, figuring out the launch of Plaksha's first Undergraduate Batch in 2021.
 
-
 I wish to start my own venture some day soon. 
 
-![Susovan_Mahapatra]({{site.baseurl}}/images/Susovan_Mahapatra.jpg)
-
-I keep a running <i>[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)</i> of things I want to do before I die. 
+I keep a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
 Found anything interesting here? **Write to me**
 
