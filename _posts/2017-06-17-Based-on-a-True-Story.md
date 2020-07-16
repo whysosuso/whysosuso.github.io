@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Based On A True Story
+title: Based On A True Story- <i>A trip to the Kangra Valley</i>
 published: true
 ---
 **_Back in 2017, right after the end of my freshman year at college, I went on a short spontaneous trip to the Kangra Valley._**
