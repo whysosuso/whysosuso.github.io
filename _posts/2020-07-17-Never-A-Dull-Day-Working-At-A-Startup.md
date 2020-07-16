@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Never A Dull Day- learnings from working at a start-up
+title: Never A Dull Day- <i>learnings from working at a start-up</i>
 published: true
 ---
 
