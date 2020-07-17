@@ -40,5 +40,6 @@ As you get acquainted with the way things work and become a trustworthy stakehol
 
 Make your intentions clear before you engage in this process, let people know where you are coming from and how you think this will help with the company- which is a shared goal for everyone. Approach this process with a sense of kindness, humility and empathy and encourage others to do the same. This helps discover blindspots and often leads to be addition of valuable foresight that another person might lack. Further helping tackle the romanticisation of firefighting that is prevalent in early-stage ventures. 
 
+----
 
 These were the things that made my journey wholesome and meaningful. Working with a small team and a growing company can always come with several challenges. These challenges can be very unique for different people and my learnings might not always end up helping everyone who is reading this. My intention here is to create a space for reflection where one can use these learnings as a foundation to further probe and understand what works for them. Good luck! 
