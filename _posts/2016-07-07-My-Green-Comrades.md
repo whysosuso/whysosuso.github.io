@@ -3,7 +3,7 @@ layout: post
 title: My Green Comrades
 published: true
 ---
-_**A short essay on my relationship with trees.**_
+_A short essay on my relationship with trees._
 
 ----
 
