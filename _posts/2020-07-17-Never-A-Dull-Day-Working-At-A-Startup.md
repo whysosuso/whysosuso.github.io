@@ -29,7 +29,7 @@ While such consistency is desirable, do also make some room for _flexible experi
 
 #### ⦿ You are the culture 
 
-In the initial stages of an organisation, the culture is never already set in stone. While there has to be a broader sense that the founders will have of the kind of culture they wish to establish within the organisation, it would almost always be a work in progress. This means that as one of the first employees, you are a primary stakeholder in the creation of the culture. You are not merely a consumer here, but you are more like a farmer indulging in subsistence farming; you consume what you create. 
+In the initial stages of an organisation, the culture is never already set in stone. While there has to be a broader sense that the founders will have of the kind of culture they wish to establish within the organisation, it would almost always be a work in progress. This means that as one of the first employees, you are a primary stakeholder in the creation of the culture. You are not merely a consumer here, but you are more like a farmer indulging in _subsistence farming_; you consume what you create. 
 
 Talk to the founders and other colleagues to understand their idea of the perfect culture and then take plenty of initiatives to contribute to that shared vision. You get to lay the foundations to a critical aspect that will impact several people as the company grows- what can be more fulfilling than that?
 
