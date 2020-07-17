@@ -33,3 +33,9 @@ In the initial stages of an organisation, the culture is never already set in st
 
 Talk to the founders and other colleagues to understand their idea of the perfect culture and then take plenty of initiatives to contribute to that shared vision. You get to lay the foundations to a critical aspect that will impact several people as the company grows- what can be more fulfilling than that?
 
+#### Question Everything 
+
+
+As you get acquainted with the way things work and become a trustworthy stakeholder in the company’s growth, the next step is one that involves a constant process of questioning things around you. Question everyone and everything with an intention to understand why things are the way they are. Once equipped with this understanding, you can now voice your concerns and suggestions better. Hence helping the overall growth of the company by regularly questioning the status quo and trying to bring in constructive changes wherever possible. 
+
+Make your intentions clear before you engage in this process, let people know where you are coming from and how you think this will help with the company- which is a shared goal for everyone. Approach this process with a sense of kindness, humility and empathy and encourage others to do the same. This helps discover blindspots and often leads to be addition of valuable foresight that another person might lack. Further helping tackle the romanticisation of firefighting that is prevalent in early-stage ventures. 
