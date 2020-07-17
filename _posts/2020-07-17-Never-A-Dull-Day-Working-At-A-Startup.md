@@ -26,3 +26,10 @@ The setup is always going to be dynamic. It is going to be a combination of shor
 _An overall focus on being consistent with one’s attitude also adds more stability_. Doing your work sincerely, taking constant feedback and working on your improvement will help in this endeavour. The built-up consistency will act as fuel in times of distress and help remain focussed. Such consistent behaviour will also earn you your colleagues’ trust, which is priceless and helps in more than one ways in creating a conducive environment for your growth.  
 
 While such consistency is desirable, do also make some room for _flexible experimentation_. There’s always more work to do the people available. Experiment with your own assigned function, pick-up side projects, help your colleagues with things that you find interesting and in the process learn as much as you can. That is one of the greatest advantages that such a system provides, make sure you use it. 
+
+### You are the culture 
+
+In the initial stages of an organisation, the culture is never already set in stone. While there has to be a broader sense that the founders will have of the kind of culture they wish to establish within the organisation, it would almost always be a work in progress. This means that as one of the first employees, you are a primary stakeholder in the creation of the culture. You are not merely a consumer here, but you are more like a farmer indulging in subsistence farming; you consume what you create. 
+
+Talk to the founders and other colleagues to understand their idea of the perfect culture and then take plenty of initiatives to contribute to that shared vision. You get to lay the foundations to a critical aspect that will impact several people as the company grows- what can be more fulfilling than that?
+
