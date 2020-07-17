@@ -11,7 +11,7 @@ I joined a bootstrapped Edtech startup right after graduating from Ashoka Univer
 
 Here I compile some of my learnings from being a part of a startup and seeing it grow from being bootstrapped to receiving two rounds of funding. More so, I explore what one can expect before they dive in for a similar journey. As I try to recall, articulate and compile my learnings, there’s one thing that becomes very clear to me; there was never a dull day.
 
-### Find your buddy and invest in them 
+#### Find your buddy and invest in them 
 
 An early-stage venture by nature is devoid of structures which makes the journey of an employee filled with chaos. While chaos does lead to creativity and eventually structures and patterns emerge, the stress around the chaos can be maddening at times. I was fortunate to have found people within the organisation with whom I could build relationships where there was ample space to discuss, deliberate and most importantly, vent. 
 
@@ -19,7 +19,7 @@ My journey was turbulent right from the beginning. We were working under all kin
 
 I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partners etc), serving as an emotional anchor and a sounding board- in turn helping one do better at their work. I would highly encourage finding at least one such buddy and investing in the relationship. Look at this relationship as a symbiotic one and make an effort to sustain and grow over time. You know it is isn’t symbiotic when it is only you are the one talking. 
 
-### Chaos, Consistency and Experimentation
+#### Chaos, Consistency and Experimentation
 
 The setup is always going to be dynamic. It is going to be a combination of short deadlines, seemingly unachievable targets, changing variables and several constraints. For no fault of anyone, the larger vision of the organisation might not make sense and sometimes might not even be decipherable to an employee. This leads to a kind of disillusionment that is never desirable. Being clear about what you want out of your time at the organisation and reminding yourself of the same helps sail through these short periods of uneasy disillusionments. It could be learning about a particular industry, making contacts, picking up different skills or something else entirely. Just try to figure out what it is for you. 
 
