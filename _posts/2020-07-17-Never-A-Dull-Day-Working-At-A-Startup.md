@@ -17,7 +17,7 @@ An early-stage venture by nature is devoid of structures which makes the journey
 
 My journey was turbulent right from the beginning. We were working under all kinds of constraints as a team and that often led to moments where I was absolutely lost. The fact that I had a buddy around who shared the same experience as me and with whom I could talk about my work and the happenings at the organisation without much hesitation, helped flatten a lot of rumbles for me right from the beginning. 
 
-I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partners etc), serving as an emotional anchor and a sounding board- in turn helping one do better at their work. I would highly encourage finding at least one such buddy and investing in the relationship._Look at this relationship as a symbiotic one and make an effort to sustain and develop is with time_. You know it is isn’t symbiotic when it is only you are the one talking. 
+I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partners etc), serving as an emotional anchor and a sounding board- in turn helping one do better at their work. I would highly encourage finding at least one such buddy and investing in the relationship. _Look at this relationship as a symbiotic one and make an effort to sustain and develop is with time_. You know it is isn’t symbiotic when it is only you are the one talking. 
 
 #### ⦿ Clarity, Consistency and Experimentation
 
@@ -38,7 +38,7 @@ Talk to the founders and other colleagues to understand their idea of the perfec
 
 As you get acquainted with the way things work and become a trustworthy stakeholder in the company’s growth, the next step is one that involves a constant process of questioning things around you. Question everyone and everything with an intention to understand why things are the way they are. Once equipped with this understanding, you can voice your concerns and suggestions better. Hence helping the overall growth of the company by regularly questioning the status quo and trying to bring in constructive changes wherever possible. 
 
-Make your intentions clear before you engage in this process. Let people know where you are coming from and how you think this process of questioning and deliberation will help the company (which is a shared goal). Approach this process with a sense of kindness, humility and empathy and encourage others to do the same. 
+Make your intentions clear before you engage in this process. Let people know where you are coming from and how you think this process of questioning and deliberation will help the company (which is a shared goal). Approach this process with a sense of kindness, humility and empathy. Encourage others to do the same. 
 
 Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the romanticisation of firefighting that otherwise exists in early-stage ventures. 
 
