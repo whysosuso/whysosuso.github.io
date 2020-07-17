@@ -36,9 +36,14 @@ Talk to the founders and other colleagues to understand their idea of the perfec
 #### ⦿Question Everything 
 
 
-As you get acquainted with the way things work and become a trustworthy stakeholder in the company’s growth, the next step is one that involves a constant process of questioning things around you. Question everyone and everything with an intention to understand why things are the way they are. Once equipped with this understanding, you can now voice your concerns and suggestions better. Hence helping the overall growth of the company by regularly questioning the status quo and trying to bring in constructive changes wherever possible. 
+As you get acquainted with the way things work and become a trustworthy stakeholder in the company’s growth, the next step is one that involves a constant process of questioning things around you. Question everyone and everything with an intention to understand why things are the way they are. Once equipped with this understanding, you can voice your concerns and suggestions better. Hence helping the overall growth of the company by regularly questioning the status quo and trying to bring in constructive changes wherever possible. 
 
-Make your intentions clear before you engage in this process, let people know where you are coming from and how you think this will help with the company- which is a shared goal for everyone. Approach this process with a sense of kindness, humility and empathy and encourage others to do the same. This helps discover blindspots and often leads to the addition of valuable insights. These insights can then be converted to actionable items that further help preempt and solve for future problems. In the process getting rid of the romanticisation of firefighting that is prevalent in early-stage ventures. 
+Make your intentions clear before you engage in this process. Let people know where you are coming from and how you think this process of questioning and deliberation will help the company (which is a shared goal). Approach this process with a sense of kindness, humility and empathy and encourage others to do the same. 
+
+Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the romanticisation of firefighting that otherwise exists in early-stage ventures. 
+
+
+
 
 
 ----
