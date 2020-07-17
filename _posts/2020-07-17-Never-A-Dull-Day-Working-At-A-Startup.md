@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Never A Dull Day- <i>starting my career at a start-up</i>
+title: Never A Dull Day- starting my career at a start-up
 published: true
 ---
 _**I started my career with an early-stage start-up and spent an exciting 14 months before I decided to move on. In this essay, I have put down some of my key learnings from the experience.**_
