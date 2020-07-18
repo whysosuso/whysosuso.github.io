@@ -44,7 +44,7 @@ To be honest, in my early days I was quick to complain about the absence of thin
 
 #### ⦿ Questioning everything 
 
-In my early days, whenever I found something that seemed broken to me, I jumped into suggesting ways to fix the problem. Looking back, I attribute this to the desire to prove myself to my coworkers. With time, I realised that most of these problems were things that were already known and that I needed more context before I could actually contribute in a meaningful way.
+In my early days, whenever I found something that seemed broken to me, I jumped into suggesting ways to fix the problem. Looking back, I attribute this to the desire to prove myself to my coworkers. With time, I realised that most of these problems were things that were already known. I clearly needed more context before I could actually contribute in a meaningful way.
 
 I started doing my homework and got a sense of why things worked the way they did. _I questioned almost everything and everyone to get this understanding._ I let people know where I was coming from and how I thought this process of questioning and deliberation was going to help the company (which is a shared goal). Approaching the process with a sense of kindness, humility and empathy helped in making the process smooth for me.
 
