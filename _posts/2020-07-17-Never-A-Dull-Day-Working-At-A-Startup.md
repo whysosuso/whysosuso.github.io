@@ -21,7 +21,7 @@ I now realise the importance of such bonds. This buddy becomes a part of your la
 
 #### ⦿ Clarity and Consistency 
 
-The setup was always dynamic. It was a combination of short deadlines, seemingly unachievable targets, changing variables and several other constraints. In all the dynamism, for no fault of anyone, the larger vision of the organisation became blurry and did not make sense to me at times. This led to a kind of disillusionment that is never desirable. 
+The setup was always dynamic. It was a combination of short deadlines, seemingly unachievable targets, changing variables and several other constraints. Amidst all the dynamism, for no fault of anyone, the larger vision of the organisation became blurry and did not make sense to me at times. This led to a kind of disillusionment that is never desirable. 
 
 I learnt that having clarity about what I wanted out of my time at the organisation and reminding myself of the same helped me sail through these short periods of uneasy disillusionments. For me, it was learning how things work in a startup and making relevant contacts. It is going to different for different people. It could be learning about a particular industry, being financially independent, picking up different skills or something else entirely depending on who the person is. 
 
