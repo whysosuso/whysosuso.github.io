@@ -27,7 +27,7 @@ _An overall focus on being consistent with one’s attitude also adds more stabi
 
 While such consistency is desirable, do also make some room for _flexible experimentation_. There’s always more work to do than there are people available. Experiment with your own assigned function, pick-up side projects, help your colleagues with things that you find interesting and in the process learn as much as you can. That is one of the greatest advantages that such a system provides, make sure you use it. 
 
-#### ⦿ Becoming the culture
+#### ⦿ Building the culture
 
 I went to a fairly new University. My batch was among the first couple of batches. Which meant that I was already exposed to the idea of how culture is built into an organisation and I held the value of culture with high regards. This came in handy when I started working with an early-stage venture.
 
