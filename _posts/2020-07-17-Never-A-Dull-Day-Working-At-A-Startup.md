@@ -19,13 +19,19 @@ My journey was turbulent right from the beginning. We were working under all kin
 
 I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partners etc), serving as an emotional anchor and a sounding board- in turn helping one do better at their work. I would highly encourage finding at least one such buddy and investing in the relationship. Any genuine effort made towards developing such relationships will have compounding effects over time. _Look at this relationship as a symbiotic one and make an effort to sustain and develop it with time_. You know it is isn’t symbiotic when it is always only you who is talking. 
 
-#### ⦿ Clarity, Consistency and Experimentation
+#### ⦿ Clarity and Consistency 
 
-The setup is always going to be dynamic. It is going to be a combination of short deadlines, seemingly unachievable targets, changing variables and several other constraints. For no fault of anyone, the larger vision of the organisation might not make sense and sometimes might not even be decipherable to an employee. This leads to a kind of disillusionment that is never desirable. Being clear about what you want out of your time at the organisation and reminding yourself of the same helps sail through these short periods of uneasy disillusionments. It could be learning about a particular industry, making contacts, picking up different skills or something else entirely. Just try to figure out what it is for you. 
+The setup was always dynamic. It was a combination of short deadlines, seemingly unachievable targets, changing variables and several other constraints. In all the dynamism, for no fault of anyone, the larger vision of the organisation became blurry and did not make sense to me at times. This led to a kind of disillusionment that is never desirable. 
 
-_An overall focus on being consistent with one’s attitude also adds more stability_. Doing your work sincerely, taking constant feedback and working on your improvement will help in this endeavour. The built-up consistency will act as fuel in times of distress and help remain focussed. Such consistent behaviour will also earn you your colleagues’ trust, which is priceless and helps in more than one ways in creating a conducive environment for your growth.  
+I learnt that having clarity about what I wanted out of my time at the organisation and reminding myself of the same helped me sail through these short periods of uneasy disillusionments. For me, it was learning how things work in a startup and making relevant contacts. It is going to different for different people. It could be learning about a particular industry, being financially independent, picking up different skills or something else entirely depending on who the person is. 
 
-While such consistency is desirable, do also make some room for _flexible experimentation_. There’s always more work to do than there are people available. Experiment with your own assigned function, pick-up side projects, help your colleagues with things that you find interesting and in the process learn as much as you can. That is one of the greatest advantages that such a system provides, make sure you use it. 
+Since the external variables weren’t always stable I tried to focus on being consistent with my own attitude. I realised that it helped me balance the instability out. Over time, I observed that doing my work sincerely, taking constant feedback and working on improving myself contributed towards the stability that I was seeking. The built-up consistency acted as fuel in times of distress and helped me remain focussed. Consistent behaviour also earned me my colleagues’ trust. They could count on me for getting things done. As I write this down, I can say it confidently that the trust was priceless as it created a conducive environment for my growth.  
+
+#### ⦿ An appetite for experimentation
+
+One of the biggest advantages of working in a startup is the fact that it allows one to get exposed to a lot of different things. I naturally have a curiosity to tinker and experiment with things and had hence taken it for granted. I started off with a lot of enthusiasm for new things but soon found my routine, and got comfortable. Some reflection down the line made it clear that I had to make a conscious effort to indulge in flexible experimentation to make the most out of my experience. 
+
+I could see that there’s always more work to do than there are people available. I tried to use that gap to do as many things that I could. I tried to pick-up side projects that needed to be worked on but had no owner. Soon I was also helping other colleagues wherever they needed a hand (having already developed a trusting relationship helped). This appetite for experimentation was instrumental in making my learning curve steeper than what it was. 
 
 #### ⦿ Building the culture
 
@@ -38,13 +44,11 @@ To be honest, in my early days I was quick to complain about the absence of thin
 
 #### ⦿ Question Everything 
 
+In my early days, whenever I found something that seemed broken to me, I jumped into suggesting ways to fix the problem. Looking back, I attribute this to the desire to prove myself to my colleagues. With time, I realised that most of these problems were things that were already known and that I needed more context before I could actually contribute in a meaningful way.
 
-As you get acquainted with the way things work and become a trustworthy stakeholder in the company’s growth, the next step is one that involves a constant process of questioning things around you. Question everyone and everything with an intention to understand why things are the way they are. Once equipped with this understanding, you can voice your concerns and suggestions better. Hence helping the overall growth of the company by regularly questioning the status quo and trying to bring in constructive changes wherever possible. 
+I did my homework and got a sense of why things worked the way they did. _I questioned almost everything and everyone to get this understanding._ The process was smooth for me. I let people know where I was coming from and how I thought this process of questioning and deliberation was going to help the company (which is a shared goal). Approaching the process with a sense of kindness, humility and empathy helped in achieving what I wanted to. 
 
-Make your intentions clear before you engage in this process. Let people know where you are coming from and how you think this process of questioning and deliberation will help the company (which is a shared goal). Approach this process with a sense of kindness, humility and empathy. Encourage others to do the same. 
-
-Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the romanticisation of firefighting that otherwise exists in early-stage ventures. 
-
+Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the romanticisation of firefighting that otherwise exists in early-stage ventures. I was lucky that the founders and my coworkers encouraged me throughout. I had now become an active stakeholder in the overall growth of the company. 
 
 
 ----
