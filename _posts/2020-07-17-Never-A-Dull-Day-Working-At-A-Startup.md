@@ -42,7 +42,7 @@ In the initial stages of an organisation, the culture is never already set in st
 To be honest, in my early days I was quick to complain about the absence of things and got upset if somethings were not how I thought they shoul be. However, as I spent a couple of months, I figured that it was time I play my part and contribute instead of complaining. I  had conversations with the founders and other coworkers to understand their idea of the perfect culture and then made myself take initiatives to contribute to that shared vision. In this process, I got to lay down the foundations to a critical aspect that will impact several people as the company grows- what can be more fulfilling than that?
 
 
-#### ⦿ Question Everything 
+#### ⦿ Questioning everything 
 
 In my early days, whenever I found something that seemed broken to me, I jumped into suggesting ways to fix the problem. Looking back, I attribute this to the desire to prove myself to my coworkers. With time, I realised that most of these problems were things that were already known and that I needed more context before I could actually contribute in a meaningful way.
 
