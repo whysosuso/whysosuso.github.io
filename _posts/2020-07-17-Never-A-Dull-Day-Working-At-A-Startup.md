@@ -11,7 +11,7 @@ I joined a bootstrapped Edtech startup right after graduating from Ashoka Univer
 
 As I prepare for the next chapter of my career, I decided to compile some of my learnings from being a part of a startup and seeing it grow from being bootstrapped to receiving two rounds of funding. As I try to recall, articulate and compile my learnings, there’s one thing that becomes very clear to me; there was never a dull day. 
 
-#### ⦿ Find your buddy and invest in them 
+#### ⦿ Finding a buddy and investing in them 
 
 An early-stage venture by nature is devoid of structures which makes it likely that the journey of an employee can be filled with chaos. While chaos does lead to creativity and eventually structures and patterns emerge, the stress around the chaos can be maddening at times. I was fortunate to have found people within the organisation with whom I could build relationships where there was ample space to discuss, deliberate and most importantly, vent. 
 
@@ -27,7 +27,7 @@ _An overall focus on being consistent with one’s attitude also adds more stabi
 
 While such consistency is desirable, do also make some room for _flexible experimentation_. There’s always more work to do than there are people available. Experiment with your own assigned function, pick-up side projects, help your colleagues with things that you find interesting and in the process learn as much as you can. That is one of the greatest advantages that such a system provides, make sure you use it. 
 
-#### ⦿ You are the culture 
+#### ⦿ Becoming the culture
 
 I went to a fairly new University. My batch was among the first couple of batches. Which meant that I was already exposed to the idea of how culture is built into an organisation and I held the value of culture with high regards. This came in handy when I started working with an early-stage venture.
 
