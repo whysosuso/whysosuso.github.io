@@ -3,7 +3,7 @@ layout: post
 title: Never A Dull Day- My time at a start-up
 published: true
 ---
-_I started my career with an early-stage start-up and spent an exciting 14 months before I decided to move on. In this essay, I have put down some of my key observations and learnings from the experience._
+_I started my career with an early-stage start-up and spent an exciting 14 months before I decided to move on. Here are some of my key observations and learnings from the experience._
 
 ----
 
@@ -13,7 +13,7 @@ Here I compile some of my learnings from being a part of a startup and seeing it
 
 #### ⦿ Find your buddy and invest in them 
 
-An early-stage venture by nature is devoid of structures which makes the journey of an employee filled with chaos. While chaos does lead to creativity and eventually structures and patterns emerge, the stress around the chaos can be maddening at times. I was fortunate to have found people within the organisation with whom I could build relationships where there was ample space to discuss, deliberate and most importantly, vent. 
+An early-stage venture by nature is devoid of structures which makes it likely that the journey of an employee can be filled with chaos. While chaos does lead to creativity and eventually structures and patterns emerge, the stress around the chaos can be maddening at times. I was fortunate to have found people within the organisation with whom I could build relationships where there was ample space to discuss, deliberate and most importantly, vent. 
 
 My journey was turbulent right from the beginning. We were working under all kinds of constraints as a team and that often led to moments where I was absolutely lost. The fact that I had a buddy around who shared a similar experience and with whom I could talk about my work and the happenings at the organisation without much hesitation, helped flatten a lot of rumbles for me right from the beginning. 
 
