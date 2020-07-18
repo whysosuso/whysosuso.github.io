@@ -17,7 +17,7 @@ An early-stage venture by nature is devoid of structures which makes it likely t
 
 My journey was turbulent right from the beginning. We were working under all kinds of constraints as a team and that often led to moments where I was absolutely lost. The fact that I had a buddy around who shared a similar experience and with whom I could talk about my work and the happenings at the organisation without much hesitation, helped flatten a lot of rumbles for me. 
 
-I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partners etc), serving as an emotional anchor and a sounding board- in turn helping one do better at their work. Any genuine effort made towards developing such relationships will have compounding effects over time. _One has to look at this relationship as a symbiotic one and make an effort to sustain and develop it with time_. 
+I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partner etc), serving as an emotional anchor and a sounding board- in turn helping one do better at their work. Any genuine effort made towards developing such relationships will have compounding effects over time. _One has to look at this relationship as a symbiotic one and make an effort to sustain and develop it with time_. 
 
 #### ⦿ Clarity and Consistency 
 
