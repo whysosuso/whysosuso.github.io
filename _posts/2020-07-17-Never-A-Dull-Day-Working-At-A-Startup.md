@@ -29,7 +29,7 @@ While such consistency is desirable, do also make some room for _flexible experi
 
 #### ⦿ You are the culture 
 
-I went to a fairly new University. My batch was among the first couple of batches. Which meant that I was already exposed to the idea of how culture is built into an organisation and held the value of culture with high regards. This came in handy when I started working with an early-stage venture.
+I went to a fairly new University. My batch was among the first couple of batches. Which meant that I was already exposed to the idea of how culture is built into an organisation and I held the value of culture with high regards. This came in handy when I started working with an early-stage venture.
 
 In the initial stages of an organisation, the culture is never already set in stone. While there has to be a broader sense that the founders will have of the kind of culture they wish to establish within the organisation, it would almost always be a work in progress. This meant that as one of the first employees, I had to be cognizant of the fact that I was a primary stakeholder in the creation of the culture. I was not going to be a mere consumer here, my role was more like that of a farmer indulging in subsistence farming; _I was going to consume what I created._
 
