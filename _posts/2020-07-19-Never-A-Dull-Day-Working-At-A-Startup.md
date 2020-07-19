@@ -3,7 +3,7 @@ layout: post
 title: Never A Dull Day- My time at a start-up
 published: true
 ---
-_I started my career with an early-stage start-up and spent an exciting 14 months before deciding to move on. Here's a bunch of things that things that worked for me..._
+_I started my career with an early-stage start-up and spent an exciting 14 months before deciding to move on. Here's how it went for me..._
 
 ----
 
