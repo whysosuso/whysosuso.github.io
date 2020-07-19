@@ -60,5 +60,5 @@ These were the things that made my journey meaningful and fulfilling. Working wi
 
 
 
-**Thanks** to Meghna and Saloni Mehta for reading earlier drafts of this. 
+_**Thanks** to Meghna and Saloni Mehta for reading earlier drafts of this._
 
