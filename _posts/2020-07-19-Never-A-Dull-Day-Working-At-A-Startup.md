@@ -11,14 +11,14 @@ I joined a bootstrapped Edtech startup right after graduating from Ashoka Univer
 
 As I try to recall, articulate and compile my learnings, there’s one thing that becomes very clear to me - there was never a dull day. Here are some of my key observations and learnings from the experience.
 
-#### ⦿ Finding a friend and investing in them
+#### ⦿ Finding a buddy and investing in them
 
 An early-stage venture, by nature, is devoid of structures which makes it likely that the journey of an employee will be filled with chaos. While chaos eventually gives way to creativity and the emergence of structures and patterns, the stress stemming from it can be maddening at times. I was fortunate to have found people within the organisation with whom I could build trusting relationships. These relationships later became critical spaces to discuss, deliberate, and most importantly, vent.
 
 My journey was turbulent right from the beginning. We were working under all kinds of constraints as a team and sometimes without much direction. Such an environment often led to moments where I was absolutely lost. What worked for me was the presence of a buddy who shared a similar experience. I could talk to them about my work and the happenings at the organisation without much hesitation. In these conversations, we would together work towards making sense of things around us and would almost always find some meaning in the madness. 
 
 
-I now realise the importance of such bonds. This friend becomes a part of your larger support system (consisting of family, friends, romantic partner etc), serving as an emotional anchor and a sounding board which, in turn, helps one produce better work. Any genuine effort made towards developing such relationships will have compounding effects over time. _One has to look at this  as a symbiotic relationship and make an effort to sustain and develop it with time_. Listen as much as you talk. You know it isn’t symbiotic when you are the only one talking.
+I now realise the importance of such bonds. This buddy becomes a part of your larger support system (consisting of family, friends, romantic partner etc), serving as an emotional anchor and a sounding board which, in turn, helps one produce better work. Any genuine effort made towards developing such relationships will have compounding effects over time. _One has to look at this  as a symbiotic relationship and make an effort to sustain and develop it with time_. Listen as much as you talk. You know it isn’t symbiotic when you are the only one talking.
 
 #### ⦿ Clarity and Consistency
 
