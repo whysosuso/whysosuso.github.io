@@ -59,6 +59,6 @@ Such systems help discover blind spots and often lead to the creation of valuabl
 These were the things that made my journey meaningful and fulfilling. Working with a small team and a growing company will always come with several challenges. These challenges can be very unique for different people and my learnings might not always end up helping everyone who is reading this. My intention here is to create a space for reflection where one can use these learnings as a foundation to further probe and understand what works for them. Good luck!
 
 
-<p class="big">
+
 **Thanks** to Meghna and Saloni Mehta for reading earlier drafts of this. 
-</p>
+
