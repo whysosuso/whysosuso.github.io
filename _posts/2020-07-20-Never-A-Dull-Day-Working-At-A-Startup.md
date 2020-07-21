@@ -51,7 +51,7 @@ In my early days, whenever I found something that seemed broken to me, I jumped 
 
 I started doing my homework and got a sense of why things worked the way they did. _I questioned almost everything to get this understanding._ I let people know where I was coming from and how I thought this process of questioning and deliberating was going to help the company’s growth (which is a shared goal). Approaching the process with a sense of kindness, humility, and empathy helped in making the process smooth for me.
 
-Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the romanticisation of firefighting that otherwise exists in early-stage ventures. I was lucky that the founders and my coworkers encouraged me throughout. 
+Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the _romanticisation of firefighting_ that otherwise exists in early-stage ventures. I was lucky that the founders and my coworkers encouraged me throughout. 
 
 ----
 
