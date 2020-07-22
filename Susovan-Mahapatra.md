@@ -8,7 +8,7 @@ I love conversations, building things, chai, running, cycling, reading and consu
 
 ![Susovan_Mahapatra]({{site.baseurl}}/images/Susovan_Mahapatra.jpg)
 
-I graduated from Ashoka University where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at School of Aceelerated Learning(SOAL), an early stage Edtech start-up. At SOAL, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work in India. 
+I graduated from Ashoka University where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at School of Accelerated Learning(SOAL), an early stage Edtech start-up. At SOAL, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work in India. 
 
 I am currently working with Plaksha University in their Admissions and Outreach Team. Here, I am trying to understand the nuances of the formal higher education space in the country.
 
