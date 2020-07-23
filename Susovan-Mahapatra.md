@@ -24,4 +24,4 @@ Found anything interesting here?
 
 [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
 
-_or follow me on [Twitter]( "https://www.twitter.com/whysosuso")_
+_or follow me on [Twitter](https://www.twitter.com/whysosuso/)_
