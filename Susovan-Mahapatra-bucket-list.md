@@ -23,6 +23,8 @@ Operating rule is that I am not allowed to delete anything from the list, things
 
 - Build a scalable business
 
+- Publish an academic paper 
+
 - **Visit London**
 
 - Do a live standup comedy set
