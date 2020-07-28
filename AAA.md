@@ -1,5 +1,5 @@
 ---
-permalink: /AAA/
+permalink: /aaa/
 published: true
 ---
 
