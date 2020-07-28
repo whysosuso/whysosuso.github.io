@@ -1,4 +1,5 @@
 ---
+title: Ashoka Alumni Association Elections- Manifesto
 permalink: /aaa/
 published: true
 ---
