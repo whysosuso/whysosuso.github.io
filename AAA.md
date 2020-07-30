@@ -4,6 +4,6 @@ permalink: /aaa/
 published: true
 ---
 
-![Susovan_Manifesto]({{site.baseurl}}/images/AAA_Manifesto_Suso.png)
+![Susovan_Manifesto]({{site.baseurl}}/images/AAA_Suso_manifesto.png)
 
 
