@@ -10,7 +10,9 @@ I love conversations, building things, chai, running, cycling, reading and consu
 
 I graduated from Ashoka University where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at School of Accelerated Learning (SOAL), an early stage Edtech start-up. At SOAL, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work in India. 
 
-I work with Plaksha University's Admissions and Outreach Team right now, setting up their upcoming UG programs. Through my experience at Plaksha, I wish to understand the nuances of the formal higher education space in India.
+I work with Plaksha University's Admissions and Outreach Team right now, working on launhcing their UG programs in 2021. Through my experience at Plaksha, I wish to understand the nuances of the formal higher education space in India.
+
+I also serve on the council of the Ashoka Alumni Association (AAA) as an elected Director. Here, I am collectively building the foundations of the Alumni Association of India's foremost Liberal Arts University. 
 
 I wish to start my own venture some day soon. 
 
@@ -24,4 +26,4 @@ Found anything interesting here?
 
 [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
 
-_or follow me on [Twitter](https://www.twitter.com/whysosuso/)_
+_You should also follow me on [Twitter](https://www.twitter.com/whysosuso/)_
