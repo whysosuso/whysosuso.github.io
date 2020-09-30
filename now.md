@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Things to do before I die
+title: Now Page
 permalink: /now/
 published: true
 ---
