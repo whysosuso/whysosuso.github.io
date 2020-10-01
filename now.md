@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now Page
+title: The Now Page
 permalink: /now/
 published: true
 ---
