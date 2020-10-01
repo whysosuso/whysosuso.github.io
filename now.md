@@ -5,4 +5,4 @@ permalink: /now/
 published: true
 ---
 
-This page is a work in progress.
+It is not now yet.
