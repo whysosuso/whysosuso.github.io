@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Now Page
 permalink: /now/
 published: true
