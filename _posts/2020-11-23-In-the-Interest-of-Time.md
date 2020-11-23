@@ -18,13 +18,13 @@ A simple wristwatch has more than 100 parts to it, all working in tandem to show
 
 I start by exploring how ‘time’ is used to signal the importance of our relationship with something or someone...
 
-We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. 
+We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the time-value heuristic (TVH).
 
 <p align="center">
   <img width="600" height="537" src="https://i.ibb.co/GvtQSRz/Time-Value-Heuristic.png">
 </p>
 
-It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the time-value heuristic (TVH) becomes a goto model. 
+It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the TVH becomes a goto model. 
 
 Now, since everyone around us constantly applies the TVH on us, they believe the answer to how important they are to us (at least partly) lies in the share of our time we give them. If someone wants us to value them, they are expecting us to make more time for them. Again, this plays out in several intricate ways in our lives. It could be your friends complaining about you not spending enough time with them or your boss expecting you to give more hours at work. The underlying reason is the concept of TVH. 
 
