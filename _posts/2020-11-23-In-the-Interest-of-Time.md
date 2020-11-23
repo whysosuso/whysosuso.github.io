@@ -21,7 +21,7 @@ I start by exploring how ‘time’ is used to signal the importance of our rela
 We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the time-value heuristic (TVH).
 
 <p align="center">
-  <img class="img-responsive" src="https://i.ibb.co/cCL1tkL/Time-Value-Heuristic.png">
+  <img class="img-responsive" src="https://i.ibb.co/GvtQSRz/Time-Value-Heuristic.png">
 </p>
 
 It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the TVH becomes a goto model. 
