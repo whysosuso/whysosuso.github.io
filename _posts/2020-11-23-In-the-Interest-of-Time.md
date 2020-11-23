@@ -13,7 +13,7 @@ I have always been interested in watches, I remember having a huge collection of
 A simple wristwatch has more than 100 parts to it, all working in tandem to show us what time in the day it is. Not so simple, is it? It turns out that time too, like a watch, isn’t simple. Over the course of the next few months, I will be using this space to articulate some of my thoughts around ‘time’. 
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/8PDWQr0/Inside-Watch.jpg">
+  <img width="400" height="600" src="https://i.ibb.co/8PDWQr0/Inside-Watch.jpg">
 </p>
 
 I start by exploring how ‘time’ is used to signal the importance of our relationship with something or someone...
@@ -21,7 +21,7 @@ I start by exploring how ‘time’ is used to signal the importance of our rela
 We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. 
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/GvtQSRz/Time-Value-Heuristic.png">
+  <img width="600" height="537" src="https://i.ibb.co/GvtQSRz/Time-Value-Heuristic.png">
 </p>
 
 It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the time-value heuristic (TVH) becomes a goto model. 
@@ -33,7 +33,7 @@ Now, since everyone around us constantly applies the TVH on us, they believe the
 The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency. The dynamics are simple; people want more of our time to feel important but we only have so much time for everyone and everything, hence the state of negotiation. 
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/wW2VnGS/Water.png">
+  <img width="456" height="450" src="https://i.ibb.co/wW2VnGS/Water.png">
 </p>
 
 The hack to this negotiation (like with any negotiation) is building an understanding of what time -the currency- means to oneself. A firm perception of time is paramount. Time is a beautiful concept, allow me to draw a comparison with water. Just like a litre of water is just that, a litre of water. An hour is exactly an hour. Similar to how water takes the shape of the container, our experience of time too, gets moulded depending on the way we spend it. Clarity about our own value of time and understanding the experiences we share with time is the first step to successfully navigating this negotiation. 
