@@ -1,6 +1,9 @@
 ---
-published: false
+layout: post
+title: In the Interest of Time
+published: true
 ---
+
 _I explore the time-value heuristic or how ‘time’ is used to signal the importance of our relationship with something or someone..._
 
 ----
