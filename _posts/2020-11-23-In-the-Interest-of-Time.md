@@ -44,4 +44,4 @@ What’s the next step, you ask? I am still in the first step, making sense of m
 
 I am keen on exploring the concept of time further, especially understanding how time functions in the context of our professional lives. I will write more as I learn more.
 
-_**Thanks** to Meghna, Saloni Mehta and Akshat Vachher for reading earlier drafts of this._
+_**Thanks** to Akshat Vachher, Meghna, Saloni Mehta for reading earlier drafts of this._
