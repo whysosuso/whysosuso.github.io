@@ -28,7 +28,7 @@ It often does hold true, that is, we do (or wish to) spend more time on things t
 
 Now, since everyone around us constantly applies the TVH on us, they believe the answer to how important they are to us (at least partly) lies in the share of our time we give them. If someone wants us to value them, they are expecting us to make more time for them. Again, this plays out in several intricate ways in our lives. It could be your friends complaining about you not spending enough time with them or your boss expecting you to give more hours at work. The underlying reason is the concept of TVH. 
 
-#### The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency.
+#### "The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency."
 
 The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency. The dynamics are simple; people want more of our time to feel important but we only have so much time for everyone and everything, hence the state of negotiation. 
 
