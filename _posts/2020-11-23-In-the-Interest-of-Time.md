@@ -13,7 +13,7 @@ I have always been interested in watches, I remember having a huge collection of
 A simple wristwatch has more than 100 parts to it, all working in tandem to show us what time in the day it is. Not so simple, is it? It turns out that time too, like a watch, isn’t simple. Over the course of the next few months, I will be using this space to articulate some of my thoughts around ‘time’. 
 
 <p align="center">
-  <img width="400" height="600" src="https://i.ibb.co/8PDWQr0/Inside-Watch.jpg">
+  <img width="600" height="400" src="https://i.ibb.co/8PDWQr0/Inside-Watch.jpg">
 </p>
 
 I start by exploring how ‘time’ is used to signal the importance of our relationship with something or someone...
