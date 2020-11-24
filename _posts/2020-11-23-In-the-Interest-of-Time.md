@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the Interest of Time- Decoding the Time-value Heuristic 
+title: In the Interest of Time- Decoding the Time-value Heuristic
 published: true
 ---
 
@@ -18,7 +18,7 @@ A simple wristwatch has more than 100 parts to it, all working in tandem to show
 
 I start by exploring how ‘time’ is used to signal the importance of our relationship with something or someone...
 
-We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the time-value heuristic (TVH).
+We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the **time-value heuristic (TVH)**.
 
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/w7vFq3n/Time-Value-Heuristic-2.png">
@@ -28,7 +28,7 @@ It often does hold true, that is, we do (or wish to) spend more time on things t
 
 Now, since everyone around us constantly applies the TVH on us, they believe the answer to how important they are to us (at least partly) lies in the share of our time we give them. If someone wants us to value them, they are expecting us to make more time for them. Again, this plays out in several intricate ways in our lives. It could be your friends complaining about you not spending enough time with them or your boss expecting you to give more hours at work. The underlying reason is the concept of TVH. 
 
-#### "The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency."
+## "The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency."
 
 The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency. The dynamics are simple; people want more of our time to feel important but we only have so much time for everyone and everything, hence the state of negotiation. 
 
