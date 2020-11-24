@@ -6,7 +6,9 @@ Hi, I am Susovan Mahapatra. I am a 23 year old with a lot of ideas.
 
 I love conversations, building things, chai, running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
-![Susovan_Mahapatra]({{site.baseurl}}/images/Susovan_Mahapatra.jpg)
+<p align="center">
+  <img class="img-responsive" src="https://i.ibb.co/KXpL8jf/Susovan-Mahapatra.jpg">
+</p>
 
 I graduated from Ashoka University where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at School of Accelerated Learning (SOAL), an early stage Edtech start-up. At SOAL, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work in India. 
 
