@@ -45,3 +45,11 @@ What’s the next step, you ask? I am still in the first step, making sense of m
 I am keen on exploring the concept of time further, especially understanding how time functions in the context of our professional lives. I will write more as I learn more.
 
 _**Thanks** to my friends Akshat Vachher, Meghna, and Saloni Mehta for reading earlier drafts._
+
+Found anything interesting here? 
+
+**Write to me**
+
+[suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
+
+_Let us connect on [Twitter](https://www.twitter.com/whysosuso/)_
