@@ -18,7 +18,7 @@ A simple wristwatch has more than 100 parts to it, all working in tandem to show
 
 I start by exploring how ‘time’ is used to signal the importance of our relationship with something or someone...
 
-We associate time with value. When we spend more time on something than on others, it is understood to be of morevalue. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the **time-value heuristic (TVH)**.
+We associate time with value. When we spend more time on something than on others, it is understood to be of more value. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the **time-value heuristic (TVH)**.
 
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/w7vFq3n/Time-Value-Heuristic-2.png">
