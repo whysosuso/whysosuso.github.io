@@ -60,4 +60,4 @@ These were the things that made my journey meaningful and fulfilling. Working wi
 
 _**Thanks** to my friends Meghna, Saloni Mehta, and Harshit Agarwal for reading earlier drafts._
 
-Please leave [your comments here](https://twitter.com/whysosuso/status/1285458599712415744). 
+_Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
