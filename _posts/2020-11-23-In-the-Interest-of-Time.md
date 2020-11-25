@@ -47,4 +47,4 @@ I am keen on exploring the concept of time further, especially understanding how
 _**Thanks** to my friends Akshat Vachher, Meghna, and Saloni Mehta for reading earlier drafts._
 
 
-_Let us connect on [Twitter](https://www.twitter.com/whysosuso/)_
+_Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
