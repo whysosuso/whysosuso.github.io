@@ -21,7 +21,7 @@ I start by exploring how ‘time’ is used to signal the importance of our rela
 We associate time with value. When we spend more time on something than on others, it is understood to be of more value. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the **time-value heuristic (TVH)**.
 
 <p align="center">
-  <img class="img-responsive" src="https://i.ibb.co/w7vFq3n/Time-Value-Heuristic-2.png">
+  <img class="img-responsive" src="https://i.ibb.co/FsPh2Z1/Time-Value-Heuristic.png">
 </p>
 
 It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the TVH becomes a goto model. 
@@ -35,6 +35,8 @@ The wide range of influences that TVH carries ultimately puts us in a constant s
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/wW2VnGS/Water.png">
 </p>
+
+Edit: I had initially put a linear graph to represent the TVH. Harshit Agarwal, a friend, probed further and pointed out how "since time is a very expensive resource, every additional hour spent with a person signals not just an additional unit of value but something greater than that. Especially true when the number of hours spent with a person grows large." I do agree with this and will be working to explore this aspect further in the future blogs. 
 
 The hack to this negotiation, like with any, is building an understanding of what time (the currency) means to oneself. A firm perception of time is paramount. Time is a beautiful concept, allow me to draw a comparison with water. Just like a litre of water is just that, a litre of water. An hour is exactly an hour. Similar to how water takes the shape of the container, our experience of time too, gets moulded depending on the way we spend it. Time, like water, is shapeless and formless in itself and attains its shape and form through our experiences. Clarity about our own value of time and understanding the experiences we share with time is the first step to successfully navigating this negotiation. 
 
