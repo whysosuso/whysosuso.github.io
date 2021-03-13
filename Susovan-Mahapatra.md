@@ -16,7 +16,7 @@ After SOAL, I joined Plaksha University's Admissions and Outreach Team. I am wor
 
 I also serve on the council of the Ashoka Alumni Association(AAA) as an elected Director. Here, I am building the foundations of the Alumni Association of India's foremost Liberal Arts University. 
 
-I keep a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
+I keep a running _[bucket list](https://whysosuso.com/bucket-list/)_ of things I want to do before I die. 
 
 **--------**
 
