@@ -10,11 +10,13 @@ I love conversations, building things, chai, running, cycling, reading and consu
   <img class="img-responsive" src="https://i.ibb.co/gSx7tPz/IMG-20210224-103403.jpg">
 </p>
 
-I graduated from Ashoka University where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at School of Accelerated Learning (SOAL), an early stage Edtech start-up. At SOAL, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work in India. 
+I graduated from Ashoka University, a greenfield University, where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at an early stage Edtech start-up. In my first job out of college, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work. 
 
-After SOAL, I joined Plaksha University's Admissions and Outreach Team. I am working on the launch of Plaksha's UG programs in 2021. Through my experience at Plaksha, I wish to understand the nuances of the formal higher education space in India and delve deeper into institution building.
+Among all the things that I learnt during my undergraduate years, what got me the most excited was the prospect of building an institution that would outlive all individuals involved. After spending a year with in my first job, I jumped ships to join another technology and research-based Greenfield University project called Paksha. At Plaksha I have been part of a 4 member team that has designed and is now executing the admissions and outreach process; crafting the first undergraduate class.
 
 I also serve on the council of the Ashoka Alumni Association(AAA) as an elected Director. Here, I am building the foundations of the Alumni Association of India's foremost Liberal Arts University. 
+
+Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ once in a while, do check them out!
 
 I keep a running _[bucket list](https://whysosuso.com/bucket-list/)_ of things I want to do before I die. 
 
@@ -27,3 +29,5 @@ Found anything interesting here?
 [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
+
+Last updated on 13 March, 2021.
