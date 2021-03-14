@@ -1,6 +1,9 @@
 ---
+layout: page
+title: Things I build
 permalink: /projects/
 published: true
+---
 ---
 I have always liked building things. While in school I ran a popular quizzing blog called Dork's Corner for about 4 years; in college, besides everything I could to contribute to building the culture, I also set up a merchandise brand, [Macha](https://www.facebook.com/machaitsokay) with some friends and made decent money. There have been other projects as well; a media site called [Discin!](https://discin.in/) to cover the stories of Ultimate Frisbee from India; designing and selling posters for dorm rooms and many more really. Some worked out well, some didn't; but I have had fun pursuing each one of them.
 
