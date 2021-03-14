@@ -15,12 +15,19 @@ The Indie Bookshop Project is a very straightforward and simple attempt at makin
 Over the past couple of years, I have visited quite a few of these and have always had a happy time. Like several other resilient independent business, 
 bookshops too adapted to the ways of shopping during the pandemic and started selling to customers far and wide through their social media pages. This list 
 below is a curated list of independent bookshops from across India, some of which also deliver pan India. So the next time you are looking for a book, do 
-consider browsing through their catalogues. Happy reading!
+consider browsing through their catalogues. 
+
+Happy reading!
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrTZnJiMrnKOl8zt?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" 
 onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-For edits or additions please write to me at suso.mahapatra@gmail.com.
+---
+For edits or additions please write to me at [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
+
+_Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
+
+Last updated on 14 March, 2021.
 
 
 
