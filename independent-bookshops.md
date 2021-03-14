@@ -21,7 +21,7 @@ consider browsing through their catalogues.
 Happy reading!
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrTZnJiMrnKOl8zt?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" 
-onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ---
 For edits or additions please write to me at [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
