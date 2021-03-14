@@ -12,7 +12,7 @@ Here are some active projects:
 
 1. **Baksa** - A subscription box that acquaints you with a particular place & its culture. A carefully curated box of edibles, trinkets, literature and more, just enough to give you a sneak peek into the culture and stories of places far from you, one _baksa_ at a time. I will write about the origin of the idea and the execution process once the first set of boxes and ready and sold. You can check <a href="https://www.twitter.com/getbaksa/" target="_blank">here</a> for updates. 
 
-2. **The Indie Bookshop Project (TIBP)** - I love independently run bookshops and want more people to experience buying books through them. TIBP is a curated list of independent bookshops across India. Next time you are buying a book, please refer to the list <a href="https://www.bit.ly/IndieBookshops/" target="_blank">here</a>, some of them also deliver pan India.
+2. **The Indie Bookshop Project (TIBP)** - I love independently run bookshops and want more people to experience buying books through them. TIBP is a curated list of independent bookshops across India. Next time you are buying a book, please refer to the list <a href="https://airtable.com/tblRrF9IuE5ZjnZMz/viwA1MmAwDQiU7YyT?blocks=hide" target="_blank">here</a>, some of them also deliver pan India.
 
 3. **Hop, Skip & Stay** - Saloni and I hop, skip and occasionally stay at homes other than ours. We review them on our Instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? <a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay).
 
