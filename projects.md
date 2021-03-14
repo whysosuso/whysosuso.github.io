@@ -16,6 +16,10 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
 
 3. **Hop, Skip & Stay** - Saloni and I hop, skip and occasionally stay at homes other than ours. We review them on our Instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? <a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay).
 
+<p>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrTZnJiMrnKOl8zt?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  </p>
+
 **--------**
 
 Found anything interesting here? 
