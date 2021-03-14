@@ -25,3 +25,5 @@ Found anything interesting here?
 [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
+
+Last updated on 14th March, 2021.
