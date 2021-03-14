@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Things to do before I die
-permalink: /bucket-list/
+permalink: /Susovan-Mahapatra-bucket-list/
 published: true
 ---
 These are things that I would like to do before I am gone for good. 
