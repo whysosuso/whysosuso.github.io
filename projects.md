@@ -8,7 +8,7 @@ I have always liked building things. While in school, I ran a popular quizzing b
 
 These projects keep me sane, if 3 out of 5 things I am working on are going okay, then life's good. I will keep updating this page with the projects I am experimenting with and will also link each project to a detailed blog once I have enough insights. 
 
-<h3>Here are some active projects:<h3>
+<h5>Here are some active projects:</h5>
 
 1. **Baksa** - A subscription box that acquaints you with a particular place & its culture. A carefully curated box of edibles, trinkets, literature and more, just enough to give you a sneak peek into the culture and stories of places far from you, one _baksa_ at a time. I will write about the origin of the idea and the execution process once the first set of boxes and ready and sold. You can check <a href="https://www.twitter.com/getbaksa/" target="_blank">here</a> for updates. 
 
