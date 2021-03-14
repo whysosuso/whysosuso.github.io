@@ -16,7 +16,7 @@ Over the past couple of years, I have visited quite a few of these and have alwa
 bookshops too adapted to the ways of shopping during the pandemic and started selling to customers far and wide through their social media pages. 
 
 This list below is a curatation of independent bookshops from across India, some of which also deliver pan India. So the next time you are looking for a book, do 
-consider browsing through their catalogues. 
+consider browsing through their catalogues. I wish to travel across the country to visit each one of these in person as well, more updates on that to follow here. 
 
 Happy reading!
 
