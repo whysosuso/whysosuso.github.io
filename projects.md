@@ -12,15 +12,15 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
 
 1. **Baksa** - A subscription box that acquaints you with a particular place & its culture. A carefully curated box of edibles, trinkets, literature and more, just enough to give you a sneak peek into the culture and stories of places far from you, one _baksa_ at a time. I will write about the origin of the idea and the execution process once the first set of boxes and ready and sold. 
 
-You can check <a href="https://www.twitter.com/getbaksa/" target="_blank">here</a> for updates. 
+  You can check <a href="https://www.twitter.com/getbaksa/" target="_blank">here</a> for updates. 
 
 2. **Indie Bookshop Project (IBP)** - I love independently run bookshops and want more people to experience buying books through them. IBP is a curated list of independent bookshops across India. Next time you are buying a book, please refer to the list, some of them also deliver pan India.
 
-Check the list <a href="https://whysosuso.com/independent-bookshops/" target="_blank">here</a>.
+  Check the list <a href="https://whysosuso.com/independent-bookshops/" target="_blank">here</a>.
 
 3. **Hop, Skip & Stay** - Saloni and I hop, skip and occasionally stay at homes other than ours. We review them on our Instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? 
 
-<a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay).
+  <a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay).
 
 **--------**
 
