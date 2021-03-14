@@ -20,7 +20,7 @@ I also serve on the council of the Ashoka Alumni Association(AAA) as an elected 
 
 Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ once in a while, do check them out!
 
-Here's a running _[bucket list](https://whysosuso.com/bucket-list/)_ of things I want to do before I die. 
+Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
 **--------**
 
