@@ -14,7 +14,7 @@ Here are some active projects:
 
 2. **The Indie Bookshop Project (TIBP)** - I love independently run bookshops and want more people to experience buying books through them. TIBP is a curated list of independent bookshops across India. Next time you are buying a book, please refer to the list [here](https://www.bit.ly/IndieBookshop/), some of them also deliver pan India.
 
-3. **Hop, Skip & Stay** - I recently realised the beauty of Homestays. Saloni and I hop, skip and occasionally stay at homes other than ours. We review them here in our instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? [Here's](https://www.instagram/hopskipstay/) the instagram page (@hopskipstay).
+3. **Hop, Skip & Stay** - Saloni and I hop, skip and occasionally stay at homes other than ours. We review them on our Instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? [Here's](https://www.instagram/hopskipstay/) the instagram page (@hopskipstay).
 
 **--------**
 
