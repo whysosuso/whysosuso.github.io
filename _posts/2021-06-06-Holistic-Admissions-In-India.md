@@ -4,7 +4,7 @@ title: Holistic Admissions In India
 published: true
 ---
 
-_A primer to the adoption of the Holistic Admissions Process in Indian College Admissions_
+_A primer to the adoption of the Holistic Admissions Process in the Indian College Admissions_
 
 ----
 
