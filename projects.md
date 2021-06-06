@@ -13,22 +13,22 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
 **Baksa** - A subscription box that acquaints you with a particular place & its culture. A carefully curated box of edibles, trinkets, literature and more, just enough to give you a sneak peek into the culture and stories of places far from you, one _baksa_ at a time. I will write about the origin of the idea and the execution process once the first set of boxes and ready and sold. 
 
   _You can check <a href="https://www.twitter.com/getbaksa/" target="_blank">here</a> for updates._
-  <br>**Status: Paused**
+  _<br>**Status: Paused**_
 
 **Indie Bookshop Project (IBP)** - I love independently run bookshops and want more people to experience buying books through them. IBP is a curated list of independent bookshops across India. Next time you are buying a book, please refer to the list, some of them also deliver pan India.
 
   _Check the list <a href="https://whysosuso.com/independent-bookshops/" target="_blank">here</a>._ 
-  <br>**Status: Completed**
+ _<br>**Status: Completed**_
 
 **Hop, Skip & Stay** - Saloni and I hop, skip and occasionally stay at homes other than ours. We review them on our Instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? 
 
   _<a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay)._
-  <br>**Status: Ongoing**
+ _<br>**Status: Ongoing**_
   
  **HigherEd Article Series** - I have been fascinated by the Higher Education space in India since my time at Ashoka. Over the next three months [September, 2021], I will be working on publishing essays on Holistic Admissions, Collective Philanthrophy and more. 
 
   _<a href="https://whysosuso.com/Holistic-Admissions-In-India/" target="_blank">Here's</a> the first article titled 'Holistic Admissions In India'._
-  <br>**Status: Ongoing**
+_<br>**Status: Ongoing**_
   
   
 
