@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Based On A true Story- A solo trip to Kangra \U0001F69E"
+title: "\U0001F69E Based On A true Story- A solo trip to Kangra"
 published: true
 ---
 _Back in 2017, right after the end of my freshman year at college, I went on a short spontaneous trip to the Kangra Valley._
