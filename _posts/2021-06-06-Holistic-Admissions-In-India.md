@@ -23,7 +23,7 @@ The good old Goodhart’s law helps us understand this idea of how cutoffs shape
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/qjRQJJ6/EAq09c-HXs-AUl-RSL.jpg">
 </p>
-<p align="center">If finding and fixing bugs gave you your bonus, you are likely to write more buggy code so you could ‘find and fix’ the bugs later and get rewarded.</p>
+<p align="center"><h10>If finding and fixing bugs gave you your bonus, you are likely to write more buggy code so you could ‘find and fix’ the bugs later and get rewarded.</h10></p>
 
 The narrow idea of measuring the suitability of a student for a program using a test score has promoted wrong behaviour in the students. When test scores are the sole measure to recruit students, the students optimize for their performance in these examinations and centre their lives around it. In the process, they end up spending time (often up to a couple of years) just figuring out how to crack an exam. The prospect that it teaches them not much beyond some hacks to do well in an exam is scary. 
 
