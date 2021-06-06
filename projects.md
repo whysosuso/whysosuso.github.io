@@ -21,6 +21,12 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
 3. **Hop, Skip & Stay** - Saloni and I hop, skip and occasionally stay at homes other than ours. We review them on our Instagram page. We intend to put out at least 8 reviews per year, that is a healthy number of holidays one should be going on, right? 
 
   _<a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay)._
+  
+ 4. **HigherEd Article Series** - I have been fascinated by the Higher Education space in India since my time at Ashoka. Over the next three months [September, 2021], I will be working on publishing essays on Holistic Admissions, Collective Philanthrophy and more. 
+
+  _<a href="https://whysosuso.com/Holistic-Admissions-In-India/" target="_blank">Here's</a> the first article titled 'Holistic Admissions In India'._
+  
+  
 
 **--------**
 
@@ -32,4 +38,4 @@ Found anything interesting here?
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-Last updated on 14th March, 2021.
+Last updated on June 6, 2021.
