@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the Interest of Time- Decoding the Time-value Heuristic
+title: In the Interest of Time- Decoding the Time-value Heuristic ⏰
 published: true
 ---
 
