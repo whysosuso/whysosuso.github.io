@@ -13,7 +13,7 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
 **Baksa** - A subscription box that acquaints you with a particular place & its culture. A carefully curated box of edibles, trinkets, literature and more, just enough to give you a sneak peek into the culture and stories of places far from you, one _baksa_ at a time. I will write about the origin of the idea and the execution process once the first set of boxes and ready and sold. 
 
   _You can check <a href="https://www.twitter.com/getbaksa/" target="_blank">here</a> for updates._
-  _<br>**Status: Paused**_
+<br>_<h10>**Status: Paused**</h10>_ 
 
 **Indie Bookshop Project (IBP)** - I love independently run bookshops and want more people to experience buying books through them. IBP is a curated list of independent bookshops across India. Next time you are buying a book, please refer to the list, some of them also deliver pan India.
 
