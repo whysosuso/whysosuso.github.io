@@ -4,7 +4,7 @@ title: "\U0001F393 Holistic Admissions In India "
 published: true
 ---
 
-_A primer to the adoption of the Holistic Admissions Process in India._
+_A primer to the adoption of the Holistic Admissions Process in Indian colleges._
 
 ----
 
