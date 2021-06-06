@@ -36,6 +36,8 @@ They look beyond just grades or test scores and explore other aspects such as th
 - their reason to pursue the program in the said institution and things that they aspire to do with the education; 
 - their ability to engage well and communicate their thoughts in a coherent manner
 
+HAP also allows colleges to build a class that is diverse and is representative of the larger society. The reason why an applicant (A) is selected could be different from why another applicant (B) gets selected.
+
 **The problem in Holistic admissions**
 
 HAP can be gamed too, one could argue. You could do things to tick the boxes so you could get past the requirements posed by the process, all the while not having any actual interest in the things you do. The argument here is absolutely correct, several students do this and are also coached by ‘career counsellors’ to ‘crack’ these admissions processes. However, even if you were doing things just to tick boxes, you are still exploring newer ideas and activities instead of being stuck with preparing for an exam. 
