@@ -23,8 +23,7 @@ consider browsing through their catalogues. I wish to travel across the country 
   <br>Here's a postcard from Martin who runs Ukiyo, a bookshop in Manipur.
 </p>
 
-
-<br>Happy reading!
+Happy reading!
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrTZnJiMrnKOl8zt?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" 
 onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
