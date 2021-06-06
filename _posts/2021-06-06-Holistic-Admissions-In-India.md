@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holistic Admissions In India
-published: false
+published: true
 ---
 
 _A primer to the adoption of the Holistic Admissions Process in Indian College Admissions_
@@ -55,7 +55,7 @@ My experience with HAP at Ashoka and now at Plaksha has allowed me to explore se
 
 
 
-_**Thanks** to my friends Saloni and Mudit for reading earlier drafts._
+_**Thanks** to Saloni, Kanchi and Mudit for reading earlier drafts._
 
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
