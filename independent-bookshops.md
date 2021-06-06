@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Indie Bookshop Project 
+title: The Indie Bookshop Project
 permalink: /independent-bookshops/
 published: true
 ---
@@ -33,9 +33,4 @@ For edits or additions please write to me at [suso.mahapatra@gmail.com](mailto:s
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-Last updated on 6 June, 2021.
-
-
-
-
-
+Last updated on June 6, 2021.
