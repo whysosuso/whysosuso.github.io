@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Holistic Admissions In India
+title: "Holistic Admissions In India \U0001F393"
 published: true
 ---
 
