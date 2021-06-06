@@ -18,10 +18,13 @@ bookshops too adapted to the ways of shopping during the pandemic and started se
 This list below is a curatation of independent bookshops from across India, some of which also deliver pan India. So the next time you are looking for a book, do 
 consider browsing through their catalogues. I wish to travel across the country to visit each one of these in person as well, more updates on that to follow here. 
 
-<iframe src="https://drive.google.com/file/d/1wAIAutSJiHUs4bWdBW5nN68Lpi0Vnb4G/preview" width="640" height="480"></iframe>
-Here's Martin who runs Ukiyo, Manipur sharing his learnings. 
+<p align="center">
+  <img class="img-responsive" src="https://i.ibb.co/mJQSnRQ/Postcard-Ukiyo.jpg">
+  <br>Here's a postcard from Martin who runs Ukiyo, a bookshop in Manipur.
+</p>
 
-<br>Happy reading!</br>
+
+<br>Happy reading!
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrTZnJiMrnKOl8zt?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" 
 onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -31,7 +34,7 @@ For edits or additions please write to me at [suso.mahapatra@gmail.com](mailto:s
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-Last updated on 14 March, 2021.
+Last updated on 6 June, 2021.
 
 
 
