@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Never A Dull Day- My time at a start-up
+title: "Never A Dull Day- My time at a start-up \U0001F9D1\U0001F3FD‍\U0001F680"
 published: true
 ---
 _I started my career with an early-stage start-up and spent an exciting 14 months before deciding to move on. Here's how it went for me..._
