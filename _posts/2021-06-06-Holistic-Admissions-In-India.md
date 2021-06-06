@@ -8,47 +8,54 @@ _A primer to the adoption of the Holistic Admissions Process in Indian College A
 
 ----
 
-I have always been interested in watches, I remember having a huge collection of them growing up. Digital, analog, ones with a chronograph, ones with a light, ones with a flipping cover or the ones with a game inside them; I made sure I had one of every type. This attachment to watches has culminated in a deep-seated fascination for the concept of time. 
+**Introduction**
 
-A simple wristwatch has more than 100 parts to it, all working in tandem to show us what time in the day it is. Not so simple, is it? It turns out that time too, like a watch, isn’t simple. Over the course of the next few months, I will be using this space to articulate some of my thoughts around ‘time’. 
+	The Indian Higher Education landscape has been introduced to a new buzzword -  ‘holistic’. I am talking about the Holistic Admissions Process (HAP) being adopted by colleges. There are several definitions of HAP, but all of them are based on just one core idea. The idea that an individual’s identity is made up of several varied parts and that none of the parts alone defines someone's identity. For a system that has for decades valued and solely depended upon scores from an examination to recruit students and even Civil servants, the idea of adopting a holistic process is refreshing. 
 
-<p align="center">
-  <img class="img-responsive" src="https://i.ibb.co/8PDWQr0/Inside-Watch.jpg">
-</p>
+I was first introduced to the HAP about half a decade back when I was applying for my undergrad at Ashoka University. It was fascinating as it was the first time an institution wanted to know about me. Pushing me to define myself not with the grades I received at School but with my thoughts and ideas, my interests and ambitions. That did the trick for me, that is majorly what made me join Ashoka later when I was given an offer of admissions. 
 
-I start by exploring how ‘time’ is used to signal the importance of our relationship with something or someone...
+In contrast to the HAP, for so long, examination scores have served as gatekeepers to legacy and premier institutions in the country. IITs, NITs, DU, IIMs have been plagued with skyrocketing cut-offs in the process impacting the behaviour of the lakhs of  ‘aspirants’. Generations of teenagers have spent their time aspiring to and preparing to clear these exams.
 
-We associate time with value. When we spend more time on something than on others, it is understood to be of more value. This could be a task or a relationship; allotting more time becomes a tool to index worth. The relationality between time and value is a mental heuristic ingrained in how we think. Let's call this the **time-value heuristic (TVH)**.
+**Goodhart’s law: How cut-offs shape our behaviours.**
 
-<p align="center">
-  <img class="img-responsive" src="https://i.ibb.co/FsPh2Z1/Time-Value-Heuristic.png">
-</p>
-
-It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the TVH becomes a goto model. 
-
-Now, since everyone around us constantly applies the TVH on us, they believe the answer to how important they are to us (at least partly) lies in the share of our time we give them. If someone wants us to value them, they are expecting us to make more time for them. Again, this plays out in several intricate ways in our lives. It could be your friends complaining about you not spending enough time with them or your boss expecting you to give more hours at work. The underlying reason is the concept of TVH. 
-
-## "The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency."
-
-The wide range of influences that TVH carries ultimately puts us in a constant state of negotiation with the world around us with time acting as the currency. The dynamics are simple; people want more of our time to feel important but we only have so much time for everyone and everything, hence the state of negotiation. 
+	The good old Goodhart’s law helps us understand this idea of how cutoffs shape our behaviour. It says that ‘when a measure becomes a target, it ceases to be a good measure’.
 
 <p align="center">
-  <img class="img-responsive" src="https://i.ibb.co/wW2VnGS/Water.png">
+  <img class="img-responsive" src="https://i.ibb.co/qjRQJJ6/EAq09c-HXs-AUl-RSL.jpg">
+  <br> If finding and fixing bugs gave you your bonus, you are likely to write more buggy code so you could ‘find and fix’ the bugs later and get rewarded.
 </p>
 
-Edit: I had initially put a linear graph to represent the TVH. Harshit Agarwal, a friend, probed further and pointed out how "since time is a very expensive resource, every additional hour spent with a person signals not just an additional unit of value but something greater than that. Especially true when the number of hours spent with a person grows large." I do agree with this and will be working to explore this aspect further in the future blogs. 
+ When examination scores are the sole measure to recruit students, the students optimize for their performance in these examinations and centre their lives around it. In the process, they end up spending time (often up to a couple of years) just figuring out how to crack an exam. This narrow idea of measuring the suitability of a student for a program has promoted wrong behaviour in the students. What is the wrong behaviour? The prospect that it teaches them not much beyond some hacks to do well in an exam is scary. 
 
-The hack to this negotiation, like with any, is building an understanding of what time (the currency) means to oneself. A firm perception of time is paramount. Time is a beautiful concept, allow me to draw a comparison with water. Just like a litre of water is just that, a litre of water. An hour is exactly an hour. Similar to how water takes the shape of the container, our experience of time too, gets moulded depending on the way we spend it. Time, like water, is shapeless and formless in itself and attains its shape and form through our experiences. Clarity about our own value of time and understanding the experiences we share with time is the first step to successfully navigating this negotiation. 
+**What is a holistic admissions process?**
 
-What’s the next step, you ask? I am still in the first step, making sense of my relationship with time. I believe the second step is to use this understanding to communicate the same to the next person and then engaging with them, but I am not there yet.
+	A college using HAP to recruit students would broadly look at a combination of traits through their admissions process. These traits are often unique to the institution and are either directly or vaguely listed on their website. Generally, colleges often have a similar process. They have an application form as the first stage which is followed up with some form of personal interaction. 
 
-----
+They look beyond just grades or test scores and explore other aspects such as the applicant’s 
+- extra-curricular and co-curricular interests to understand how they have spent their time and what have they learnt; 
+- their reason to pursue the program in the said institution and things that they aspire to do with the education; 
+- their ability to engage well and communicate their thoughts in a coherent manner
 
-I am keen on exploring the concept of time further, especially understanding how time functions in the context of our professional lives. I will write more as I learn more.
+**The problem in Holistic admissions**
 
-Edit: I had initially put a linear graph to represent the TVH. Harshit Agarwal, a friend, probed further and pointed out how "since time is a very expensive resource, every additional hour spent with a person signals not just an additional unit of value but something greater than that. Especially true when the number of hours spent with a person grows large." I do agree with this and will be working to explore this aspect further in the future blogs.
+	HAP can be gamed too, one could argue. You could do things to tick the boxes so you could get past the requirements posed by the process, all the while not having any actual interest in the things you do. The argument here is absolutely correct, several students do this and are also coached by ‘career counsellors’ to ‘crack’ these admissions processes. However, even if you were doing things just to tick boxes, you are still exploring newer ideas and activities instead of being stuck with preparing for an exam. 
 
-_**Thanks** to my friends Akshat Vachher, Meghna, and Saloni Mehta for reading earlier drafts._
+The other argument is about how people with more access and resources have a better shot. This isn’t wholly correct. Most colleges are trying to assess you from a point where they want to know that if two applicants A and B were to be given the same kind of resources, which one of them would do better. Most colleges practising HAP also take this into consideration as ‘context’* plays an important role in assessing an applicant. The processes are designed^ to see how well has an applicant made use of the resources available to them rather than just looking at what they have done. 
+
+It is still not foolproof and there are more loopholes as well, although I feel the more we talk about them the better we can make these systems with time. 
+
+*Context- social, financial, emotional and medical background. 
+^at least on paper
+
+**Conclusion**
+
+	For the last year or so I have been working with Plaksha - an upcoming Greenfield engineering and research University. In the land of the Joint Entrance Examination (JEE), even thinking of HAP for engineering schools could be blasphemous. That is exactly what we are trying to do as we craft the founding cohort of Plaksha. 
+
+My experience with HAP at Ashoka and now at Plaksha has allowed me to explore several aspects of HAP and the good it can do. The idea is still catching up in India with a history of less than a decade and a handful of institutions adopting it, but the promise is strong. We need to address the problems of scale, meritocracy, opacity etc as more institutions work on adopting the holistic admissions process. I am writing this to familiarise more people with the process and with the hope that I will live to see the wide adoption of HAP in the Indian Higher Education space. 
+
+
+
+_**Thanks** to my friends Saloni and Mudit for reading earlier drafts._
 
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
