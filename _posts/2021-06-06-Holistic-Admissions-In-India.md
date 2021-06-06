@@ -25,7 +25,7 @@ The good old Goodhart’s law helps us understand this idea of how cutoffs shape
 </p>
 <p align="center">_If finding and fixing bugs gave you your bonus, you are likely to write more buggy code so you could ‘find and fix’ the bugs later and get rewarded_.</p>
 
- When examination scores are the sole measure to recruit students, the students optimize for their performance in these examinations and centre their lives around it. In the process, they end up spending time (often up to a couple of years) just figuring out how to crack an exam. This narrow idea of measuring the suitability of a student for a program has promoted wrong behaviour in the students. What is the wrong behaviour? The prospect that it teaches them not much beyond some hacks to do well in an exam is scary. 
+The narrow idea of measuring the suitability of a student for a program using a test score has promoted wrong behaviour in the students. When test scores are the sole measure to recruit students, the students optimize for their performance in these examinations and centre their lives around it. In the process, they end up spending time (often up to a couple of years) just figuring out how to crack an exam. The prospect that it teaches them not much beyond some hacks to do well in an exam is scary. 
 
 **What is a holistic admissions process?**
 
