@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holistic Admissions In India
-published: true
+published: false
 ---
 
 _A primer to the adoption of the Holistic Admissions Process in Indian College Admissions_
