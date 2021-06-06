@@ -10,7 +10,7 @@ _A primer to the adoption of the Holistic Admissions Process in Indian College A
 
 **Introduction**
 
-	The Indian Higher Education landscape has been introduced to a new buzzword -  ‘holistic’. I am talking about the Holistic Admissions Process (HAP) being adopted by colleges. There are several definitions of HAP, but all of them are based on just one core idea. The idea that an individual’s identity is made up of several varied parts and that none of the parts alone defines someone's identity. For a system that has for decades valued and solely depended upon scores from an examination to recruit students and even Civil servants, the idea of adopting a holistic process is refreshing. 
+The Indian Higher Education landscape has been introduced to a new buzzword -  ‘holistic’. I am talking about the Holistic Admissions Process (HAP) being adopted by colleges. There are several definitions of HAP, but all of them are based on just one core idea. The idea that an individual’s identity is made up of several varied parts and that none of the parts alone defines someone's identity. For a system that has for decades valued and solely depended upon scores from an examination to recruit students and even Civil servants, the idea of adopting a holistic process is refreshing. 
 
 I was first introduced to the HAP about half a decade back when I was applying for my undergrad at Ashoka University. It was fascinating as it was the first time an institution wanted to know about me. Pushing me to define myself not with the grades I received at School but with my thoughts and ideas, my interests and ambitions. That did the trick for me, that is majorly what made me join Ashoka later when I was given an offer of admissions. 
 
@@ -18,7 +18,7 @@ In contrast to the HAP, for so long, examination scores have served as gatekeepe
 
 **Goodhart’s law: How cut-offs shape our behaviours.**
 
-	The good old Goodhart’s law helps us understand this idea of how cutoffs shape our behaviour. It says that ‘when a measure becomes a target, it ceases to be a good measure’.
+The good old Goodhart’s law helps us understand this idea of how cutoffs shape our behaviour. It says that ‘when a measure becomes a target, it ceases to be a good measure’.
 
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/qjRQJJ6/EAq09c-HXs-AUl-RSL.jpg">
@@ -29,7 +29,7 @@ In contrast to the HAP, for so long, examination scores have served as gatekeepe
 
 **What is a holistic admissions process?**
 
-	A college using HAP to recruit students would broadly look at a combination of traits through their admissions process. These traits are often unique to the institution and are either directly or vaguely listed on their website. Generally, colleges often have a similar process. They have an application form as the first stage which is followed up with some form of personal interaction. 
+A college using HAP to recruit students would broadly look at a combination of traits through their admissions process. These traits are often unique to the institution and are either directly or vaguely listed on their website. Generally, colleges often have a similar process. They have an application form as the first stage which is followed up with some form of personal interaction. 
 
 They look beyond just grades or test scores and explore other aspects such as the applicant’s 
 - extra-curricular and co-curricular interests to understand how they have spent their time and what have they learnt; 
@@ -38,7 +38,7 @@ They look beyond just grades or test scores and explore other aspects such as th
 
 **The problem in Holistic admissions**
 
-	HAP can be gamed too, one could argue. You could do things to tick the boxes so you could get past the requirements posed by the process, all the while not having any actual interest in the things you do. The argument here is absolutely correct, several students do this and are also coached by ‘career counsellors’ to ‘crack’ these admissions processes. However, even if you were doing things just to tick boxes, you are still exploring newer ideas and activities instead of being stuck with preparing for an exam. 
+HAP can be gamed too, one could argue. You could do things to tick the boxes so you could get past the requirements posed by the process, all the while not having any actual interest in the things you do. The argument here is absolutely correct, several students do this and are also coached by ‘career counsellors’ to ‘crack’ these admissions processes. However, even if you were doing things just to tick boxes, you are still exploring newer ideas and activities instead of being stuck with preparing for an exam. 
 
 The other argument is about how people with more access and resources have a better shot. This isn’t wholly correct. Most colleges are trying to assess you from a point where they want to know that if two applicants A and B were to be given the same kind of resources, which one of them would do better. Most colleges practising HAP also take this into consideration as ‘context’* plays an important role in assessing an applicant. The processes are designed^ to see how well has an applicant made use of the resources available to them rather than just looking at what they have done. 
 
@@ -49,7 +49,7 @@ It is still not foolproof and there are more loopholes as well, although I feel 
 
 **Conclusion**
 
-	For the last year or so I have been working with Plaksha - an upcoming Greenfield engineering and research University. In the land of the Joint Entrance Examination (JEE), even thinking of HAP for engineering schools could be blasphemous. That is exactly what we are trying to do as we craft the founding cohort of Plaksha. 
+For the last year or so I have been working with Plaksha - an upcoming Greenfield engineering and research University. In the land of the Joint Entrance Examination (JEE), even thinking of HAP for engineering schools could be blasphemous. That is exactly what we are trying to do as we craft the founding cohort of Plaksha. 
 
 My experience with HAP at Ashoka and now at Plaksha has allowed me to explore several aspects of HAP and the good it can do. The idea is still catching up in India with a history of less than a decade and a handful of institutions adopting it, but the promise is strong. We need to address the problems of scale, meritocracy, opacity etc as more institutions work on adopting the holistic admissions process. I am writing this to familiarise more people with the process and with the hope that I will live to see the wide adoption of HAP in the Indian Higher Education space. 
 
