@@ -8,7 +8,7 @@ _A primer to the adoption of the Holistic Admissions Process in Indian Universit
 
 ----
 
-**Introduction**
+**Snapshot**
 
 The Indian Higher Education landscape has been introduced to a new buzzword - ‘holistic’. I am talking about the Holistic Admissions Process (HAP) being adopted by universities. There are several definitions of HAP, but all of them are based on just one core idea. The idea that an individual’s identity is made up of several varied parts and that none of the parts alone defines someone's identity. For a system that has for decades valued and solely depended upon scores from an examination to recruit students and even Civil servants, the idea of adopting a holistic process is refreshing. 
 
@@ -36,7 +36,7 @@ They look beyond just grades or test scores and explore other aspects such as th
 - their reason to pursue the program in the said institution and things that they aspire to do with the education; 
 - their ability to engage well and communicate their thoughts in a coherent manner
 
-HAP also allows universities to build a class that is diverse and is representative of the larger society. The reason why an applicant (A) is selected could be different from why another applicant (B) gets selected.
+HAP also allows universities to build a class that is diverse and is representative of diveristies that the larger society has. The reason why an applicant (A) is selected could be different from why another applicant (B) gets selected. 
 
 **The problem in Holistic admissions**
 
@@ -49,7 +49,7 @@ It is still not foolproof and there are more loopholes as well, although I feel 
 *Context- social, financial, emotional and medical background. 
 ^at least on paper
 
-**Conclusion**
+**Where do we go from here?**
 
 For the last year or so I have been working with Plaksha - an upcoming Greenfield engineering and research University. In the land of the Joint Entrance Examination (JEE), even thinking of HAP for engineering schools could be blasphemous. That is exactly what we are trying to do as we craft the founding cohort of Plaksha. 
 
