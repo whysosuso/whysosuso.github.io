@@ -8,7 +8,7 @@ _A primer to the adoption of the Holistic Admissions Process in Indian Universit
 
 ----
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLqrHP33_1x5MOFOoJugB7edJ7y2G5cnubtShwfE9_nKJZdg/viewform?embedded=true" width="600" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLqrHP33_1x5MOFOoJugB7edJ7y2G5cnubtShwfE9_nKJZdg/viewform?embedded=true" width="600" height="403" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 **Snapshot**
 
