@@ -7,11 +7,6 @@ published: true
 _A primer to the adoption of the Holistic Admissions Process in Indian Universities._
 
 ----
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLqrHP33_1x5MOFOoJugB7edJ7y2G5cnubtShwfE9_nKJZdg/viewform?embedded=true" width="600" height="403" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-**Snapshot**
-
 The Indian Higher Education landscape has been introduced to a new buzzword - ‘holistic’. I am talking about the Holistic Admissions Process (HAP) being adopted by universities. There are several definitions of HAP, but all of them are based on just one core idea. The idea that an individual’s identity is made up of several varied parts and that none of the parts alone defines someone's identity. For a system that has for decades valued and solely depended upon scores from an examination to recruit students and even Civil servants, the idea of adopting a holistic process is refreshing. 
 
 I was first introduced to the HAP about half a decade back when I was applying for my undergrad at Ashoka University. It was fascinating as it was the first time an institution wanted to know about me. Pushing me to define myself not with the grades I received at school but with my thoughts and ideas, my interests and ambitions. That did the trick for me, that is majorly what made me join Ashoka later when I was given an offer of admissions. 
