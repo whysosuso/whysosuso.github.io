@@ -50,7 +50,9 @@ It is still not foolproof and there are more loopholes as well, although I feel 
 
 For the last year or so I have been working with Plaksha - an upcoming Greenfield engineering and research University. In the land of the Joint Entrance Examination (JEE), even thinking of HAP for engineering schools could be blasphemous. That is exactly what we are trying to do as we craft the founding cohort of Plaksha. 
 
-My experience with HAP at Ashoka and now at Plaksha has allowed me to explore several aspects of HAP and the good it can do. The idea is still catching up in India with a history of less than a decade and a handful of institutions adopting it, but the promise is strong. We need to address the problems of scale, meritocracy, opacity etc as more institutions work on adopting the holistic admissions process. I am writing this to familiarise more people with the process and with the hope that I will live to see the wide adoption of HAP in the Indian Higher Education space. 
+My experience with HAP at Ashoka and now at Plaksha has allowed me to explore several aspects of HAP and the good it can do. The idea is still catching up in India with a history of less than a decade and a handful of institutions adopting it, but the promise is strong. We need to address the problems of scale, meritocracy, opacity etc as more institutions work on adopting the holistic admissions process. 
+
+I am writing this to familiarise more people with the process and with the hope that I will live to see the wide adoption of HAP in the Indian Higher Education space. 
 
 
 
