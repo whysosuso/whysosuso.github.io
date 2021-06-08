@@ -33,7 +33,7 @@ They look beyond just grades or test scores and explore other aspects such as th
 - their reason to pursue the program in the said institution and things that they aspire to do with the education; 
 - their ability to engage well and communicate their thoughts in a coherent manner
 
-HAP also allows universities to build a class that is diverse and is representative of diveristies that the larger society has. The reason why an applicant (A) is selected could be different from why another applicant (B) gets selected. 
+HAP also allows universities to build a class that is representative of diveristies that the larger society has. The reason why an applicant (A) is selected could be different from why another applicant (B) gets selected. Each applicant is assessed as an individual and not just a test score. 
 
 **The problem in Holistic admissions**
 
@@ -58,3 +58,6 @@ _**Thanks** to Saloni, Kanchi and Mudit for reading earlier drafts._
 
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
+
+You can also drop me a line at [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com). I would love to engage with high schoolers, educators and others who are interested to discuss this further. 
+
