@@ -59,5 +59,4 @@ _**Thanks** to Saloni, Kanchi and Mudit for reading earlier drafts._
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-You can also drop me a line at [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com). I would love to engage with high schoolers, educators and others who are interested to discuss this further. 
-
+_You can also drop me a line at [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)._
