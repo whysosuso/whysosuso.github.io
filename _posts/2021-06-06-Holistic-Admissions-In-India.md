@@ -11,7 +11,7 @@ The Indian Higher Education landscape has been introduced to a new buzzword - �
 
 I was first introduced to the HAP about half a decade back when I was applying for my undergrad at Ashoka University. It was fascinating as it was the first time an institution wanted to know about me. Pushing me to define myself not with the grades I received at school but with my thoughts and ideas, my interests and ambitions. That did the trick for me, that is majorly what made me join Ashoka later when I was given an offer of admissions. 
 
-In contrast to the HAP, for so long, examination scores have served as gatekeepers to legacy and premier institutions in the country. IITs, NITs, DU, IIMs have been plagued with skyrocketing cut-offs in the process impacting the behaviour of the lakhs of  ‘aspirants’. Generations of teenagers have spent their time aspiring to and preparing to clear these exams.
+In contrast to the HAP, for so long, test scores have served as gatekeepers to legacy and premier institutions in the country. IITs, NITs, DU, IIMs have been plagued with skyrocketing cut-offs in the process impacting the behaviour of the lakhs of  ‘aspirants’. Generations of teenagers have spent their time aspiring to and preparing to clear these exams.
 
 **Goodhart’s law: How cut-offs shape our behaviours.**
 
