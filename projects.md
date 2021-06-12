@@ -25,12 +25,11 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
   _<a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay)._
  _<br>Status: Ongoing_
   
- **HigherEd Article Series** - I have been fascinated by the Higher Education space in India since my time at Ashoka. Over the next three months [September, 2021], I will be working on publishing essays on Holistic Admissions, Collective Philanthrophy and more. 
+**HigherEd Article Series** - I have been fascinated by the Higher Education space in India since my time at Ashoka. Over the next three months [September, 2021], I will be working on publishing essays on Holistic Admissions, Collective Philanthrophy and more. 
 
   _<a href="https://whysosuso.com/Holistic-Admissions-In-India/" target="_blank">Here's</a> the first article titled 'Holistic Admissions In India'._
 _<br>Status: Ongoing_
-  
-  
+ 
 
 **--------**
 
