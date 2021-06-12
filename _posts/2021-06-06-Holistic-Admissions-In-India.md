@@ -56,7 +56,7 @@ I am writing this to familiarise more people with the process and with the hope 
 
 
 
-_**Thanks** to Saloni, Kanchi and Mudit for reading earlier drafts._
+_**Thanks** to Saloni Mehta, Kanchi Khanna and Mudit Lal for reading earlier drafts._
 
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
