@@ -11,8 +11,7 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 ✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
 <p align="center">
-  <div class="circular--landscape">
-<img class="img-responsive" src="https://i.ibb.co/gSx7tPz/IMG-20210224-103403.jpg"></div>
+<img class="circular--portrait" src="https://i.ibb.co/gSx7tPz/IMG-20210224-103403.jpg">
 </p>
 
 I am passionate about the rapidly evolving Higher Education space across the world and am working towards making my first career and creating impact in the space. 
