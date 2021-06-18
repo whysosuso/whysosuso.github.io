@@ -14,7 +14,7 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 
 ✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
-https://i.ibb.co/gSx7tPz/IMG-20210224-103403.jpg
+**--------**
 
 I am passionate about the rapidly evolving Higher Education space across the world and am working towards making my first career and creating impact in the space. 
 
@@ -23,7 +23,6 @@ I graduated from Ashoka University, a greenfield project, where I studied Econom
 Among all the things that I learnt during my undergraduate years, what got me the most excited was the prospect of building an institution that would outlive all individuals involved. After spending about a year in my first job, I jumped ships to join a technology and research-based Greenfield University project called Plaksha. At Plaksha, I have been part of a 4 member team that is designing and executing the admissions and outreach process; crafting the first undergraduate class.
 
 I also serve on the council of the Ashoka Alumni Association(AAA) as an elected Director. Here, I am building the foundations of the Alumni Association of India's foremost Liberal Arts University. 
-
 
 **--------**
 
