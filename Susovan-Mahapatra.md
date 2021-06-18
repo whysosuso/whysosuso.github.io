@@ -6,6 +6,9 @@ Hi, I am Susovan Mahapatra. I am a 24 year old with a lot of ideas.
 
 I love conversations, building things, chai (coffee too!), running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
+⚒️ Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ once in a while, do check them out!
+✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
+
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/gSx7tPz/IMG-20210224-103403.jpg">
 </p>
@@ -18,9 +21,6 @@ Among all the things that I learnt during my undergraduate years, what got me th
 
 I also serve on the council of the Ashoka Alumni Association(AAA) as an elected Director. Here, I am building the foundations of the Alumni Association of India's foremost Liberal Arts University. 
 
-⚒️ Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ once in a while, do check them out!
-
-✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
 **--------**
 
