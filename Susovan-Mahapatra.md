@@ -3,7 +3,7 @@ permalink: /Susovan-Mahapatra/
 published: true
 ---
 <p align="center">
-<img class="img-responsive" src="https://i.ibb.co/zZnXkyv/Susovan.png">
+<img class="img-responsive" src="https://i.ibb.co/zZnXkyv/Susovan.png" style="width:48px;height:48px;">
 </p>
 
 Hi, I am Susovan Mahapatra. I am a 24 year old with a lot of ideas. 
