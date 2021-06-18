@@ -7,7 +7,9 @@ Hi, I am Susovan Mahapatra. I am a 24 year old with a lot of ideas.
 I love conversations, building things, chai (coffee too!), running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
 ✍🏽 I write every once in a while, I would love it if you could check some of my _[essays](https://whysosuso.com/essays/)_! 
+
 ⚒️ Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ once in a while, do check them out!
+
 ✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
 <p align="center">
@@ -22,10 +24,6 @@ I graduated from Ashoka University, a greenfield project, where I studied Econom
 Among all the things that I learnt during my undergraduate years, what got me the most excited was the prospect of building an institution that would outlive all individuals involved. After spending about a year in my first job, I jumped ships to join a technology and research-based Greenfield University project called Plaksha. At Plaksha, I have been part of a 4 member team that is designing and executing the admissions and outreach process; crafting the first undergraduate class.
 
 I also serve on the council of the Ashoka Alumni Association(AAA) as an elected Director. Here, I am building the foundations of the Alumni Association of India's foremost Liberal Arts University. 
-
-br>I am glad you found your way here. I am a 24 year old liberal arts graduate with a lot of ideas.</br>
-
-<br>Wondering who I am? <a href="https://whysosuso.com/Susovan-Mahapatra/">Start here</a>
 
 
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
