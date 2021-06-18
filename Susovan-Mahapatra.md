@@ -6,7 +6,7 @@ Hi, I am Susovan Mahapatra. I am a 24 year old with a lot of ideas.
 
 I love conversations, building things, chai (coffee too!), running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
-✍🏽 I write every once in a while, I would love it if you could check some of my _[essays](https://whysosuso.com/essays/)_! 
+✍🏽 I write every once in a while, I would love it if you could read some of my _[essays](https://whysosuso.com/essays/)_! 
 
 ⚒️ Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ do check them out!
 
