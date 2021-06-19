@@ -53,12 +53,13 @@ I started doing my homework and got a sense of why things worked the way they di
 
 Such systems help discover blind spots and often lead to the creation of valuable insights. These insights, if taken seriously, can further help preempt problems and be converted into actionable items to solve those problems. A simple act of being aware and raising the right questions can help combat the _romanticisation of firefighting_ that otherwise exists in early-stage ventures. I was lucky that the founders and my coworkers encouraged me throughout. 
 
-----
 
 These were the things that made my journey meaningful and fulfilling. Working with a small team and a growing company will always come with several challenges. These challenges can be very unique for different people and my learnings might not always end up helping everyone who is reading this. My intention here is to create a space for reflection where one can use these learnings as a foundation to further probe and understand what works for them. 
 
 
 _**Thanks** to Meghna, Saloni, and Harshit for reading earlier drafts._
+
+----
 
 I would love to stay in touch with you. Please do drop your email address here so I could update you about the (mostly exciting) things I am up to! 
 
