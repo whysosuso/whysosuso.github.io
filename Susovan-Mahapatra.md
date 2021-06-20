@@ -8,7 +8,7 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 
 ✍🏽 I write every once in a while, I would love it if you could read some of my _[essays](https://whysosuso.com/essays/)_! 
 
-⚒️ Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_ do check them out!
+⚒️ Beyond my day job, I try experimenting with some side _[projects](https://whysosuso.com/projects/)_, do check them out!
 
 ✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
