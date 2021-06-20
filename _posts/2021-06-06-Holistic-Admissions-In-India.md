@@ -58,6 +58,8 @@ I am writing this to familiarise more people with the process and with the hope 
 
 _**Thanks** to Saloni Mehta, Kanchi Khanna and Mudit Lal for reading earlier drafts._
 
+----
+
 I would love to stay in touch with you. Please do drop your email address here so I could update you about the (mostly exciting) things I am up to! 
 
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
