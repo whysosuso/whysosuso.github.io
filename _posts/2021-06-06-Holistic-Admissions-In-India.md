@@ -67,5 +67,3 @@ I would love to stay in touch with you. Please do drop your email address here s
 
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
-
-_You can also drop me a line at [suso.mahapatra@gmail.com](mailto:suso.mahapatra@gmail.com)._
