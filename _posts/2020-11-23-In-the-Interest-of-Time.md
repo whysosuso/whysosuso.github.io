@@ -10,7 +10,7 @@ _I explore how ‘time’ is used to signal the importance of our relationship w
 
 I have always been interested in watches, I remember having a huge collection of them growing up. Digital, analog, ones with a chronograph, ones with a light, ones with a flipping cover or the ones with a game inside them; I made sure I had one of every type. This attachment to watches has culminated in a deep-seated fascination for the concept of time. 
 
-A simple wristwatch has more than 100 parts to it, all working in tandem to show us what time in the day it is. Not so simple, is it? It turns out that time too, like a watch, isn’t simple. Over the course of the next few months, I will be using this space to articulate some of my thoughts around ‘time’. 
+A simple wristwatch has more than 100 parts to it, all working in tandem to show us what time in the day it is. Not so simple, is it? It turns out that time too, like a watch, isn’t simple. Over the course of the next months and years, I will be using this space to articulate some of my thoughts around ‘time’. 
 
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/8PDWQr0/Inside-Watch.jpg">
