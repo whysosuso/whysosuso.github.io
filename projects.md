@@ -32,7 +32,7 @@ _<br>Status: Ongoing_
  
  **Equity in Higher Education** - An attempt to bring equity into higher education in India. We aim to mentor Bahujan students for undergraduate programs in top private universities across India. Currently driven by a group of Ashoka University Alumni and Students in partnership with <a href="https://twitter.com/equityinpolicy" target="_blank">Equity in Policy Education.</a>
 
-_<br>Status: Ongoing (Pilot)_
+_Status: Ongoing (Pilot)_
 
 **--------**
 
