@@ -20,7 +20,7 @@ I really enjoy setting things up; working on projects from scratch and creating 
 
 I graduated from Ashoka University, a greenfield project, where I studied Economics and International Relations and served as a Resident Assistant for two terms. After graduating, I joined the Growth Team at an early stage bootstrapped Edtech start-up. In my first job out of college, I worked across functions of Growth and got a flavour of how alternate education, start-ups and Growth in start-ups work. 
 
-Among all the things that I learnt during my undergraduate years, what got me the most excited was the prospect of building an institution that would outlive all individuals involved. After spending about a year in my first job, I jumped ships to join a technology and research-based Greenfield University project called Plaksha. At Plaksha, I have been part of a small team that is designing and executing the admissions and outreach process; crafting the first undergraduate class.
+Among all the things that I learnt during my undergraduate years, what got me the most excited was the prospect of building an institution that would outlive all individuals involved. After spending about a year in my first job, I jumped ship to join a technology and research-based Greenfield University project called Plaksha. At Plaksha, I have been part of a small team that is designing and executing the admissions and outreach process; crafting the first undergraduate class.
 
 I also serve on the council of the Ashoka Alumni Association as an elected Director. Here, I am building the foundation of the Alumni Association of India's foremost Liberal Arts University. 
 
