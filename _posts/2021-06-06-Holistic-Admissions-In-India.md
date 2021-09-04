@@ -30,8 +30,8 @@ A college using HAP to recruit students would broadly look at a combination of t
 
 They look beyond just grades or test scores and explore other aspects such as the applicant’s 
 - extra-curricular and co-curricular interests to understand how they have spent their time and what have they learnt; 
-- their reason to pursue the program in the said institution and things that they aspire to do with the education; 
-- their ability to engage well and communicate their thoughts in a coherent manner
+- reason to pursue the program in the said institution and things that they aspire to do with the education; 
+- ability to engage well and communicate their thoughts in a coherent manner
 
 HAP also allows universities to build a class that is representative of diveristies that the larger society has. The reason why an applicant (A) is selected could be different from why another applicant (B) gets selected. Each applicant is assessed as an individual and not just on the basis of a test score. 
 
