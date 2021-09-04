@@ -26,7 +26,7 @@ The narrow idea of measuring the suitability of a student for a program using a 
 
 **What is a holistic admissions process?**
 
-A college using HAP to recruit students would broadly look at a combination of traits through their admissions process. These traits are often unique to the institution and are either directly or vaguely listed on their website. Generally, universities often have a similar process. They have an application form as the first stage which is followed up with some form of personal interaction. 
+A college using HAP to recruit students would broadly look at a combination of traits through their admissions process. These traits are often unique to the institution and are either directly or vaguely listed on their website. Generally, universities have a similar process. They have an application form as the first stage which is followed up with some form of personal interaction. 
 
 They look beyond just grades or test scores and explore other aspects such as the applicant’s 
 - extra-curricular and co-curricular interests to understand how they have spent their time and what have they learnt; 
