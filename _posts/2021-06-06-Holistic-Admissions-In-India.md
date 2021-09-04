@@ -56,7 +56,7 @@ I am writing this to familiarise more people with the process and with the hope 
 
 
 
-_**Thanks** to Saloni Mehta, Kanchi Khanna and Mudit Lal for reading earlier drafts._
+_**Thanks** to Kanchi Khanna, Kristin Greene, Saloni Mehta and Mudit Lal for reading earlier drafts._
 
 ----
 
