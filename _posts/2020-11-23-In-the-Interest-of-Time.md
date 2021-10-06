@@ -23,7 +23,6 @@ We associate time with value. When we spend more time on something than on other
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/FsPh2Z1/Time-Value-Heuristic.png">
 </p>
-
 It often does hold true, that is, we do (or wish to) spend more time on things that matter to us; say with our family, friends or on an idea that we are passionate about. Although, there are always tasks or relationships that we call ‘time-consuming’ because of the mismatch in their perceived value to us and the time value they demand. So drawing a direct proportionality between time and value might not be all that accurate, after all. However, for a third person making a judgement, irrespective of the nuances, the TVH becomes a goto model. 
 
 Now, since everyone around us constantly applies the TVH on us, they believe the answer to how important they are to us (at least partly) lies in the share of our time we give them. If someone wants us to value them, they are expecting us to make more time for them. Again, this plays out in several intricate ways in our lives. It could be your friends complaining about you not spending enough time with them or your boss expecting you to give more hours at work. The underlying reason is the concept of TVH. 
