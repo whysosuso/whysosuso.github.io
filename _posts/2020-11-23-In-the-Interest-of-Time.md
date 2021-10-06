@@ -36,8 +36,6 @@ The wide range of influences that TVH carries ultimately puts us in a constant s
   <img class="img-responsive" src="https://i.ibb.co/wW2VnGS/Water.png">
 </p>
 
-Edit: I had initially put a linear graph to represent the TVH. Harshit Agarwal, a friend, probed further and pointed out how "since time is a very expensive resource, every additional hour spent with a person signals not just an additional unit of value but something greater than that. Especially true when the number of hours spent with a person grows large." I do agree with this and will be working to explore this aspect further in the future blogs. 
-
 The hack to this negotiation, like with any, is building an understanding of what time (the currency) means to oneself. A firm perception of time is paramount. Time is a beautiful concept, allow me to draw a comparison with water. Just like a litre of water is just that, a litre of water. An hour is exactly an hour. Similar to how water takes the shape of the container, our experience of time too, gets moulded depending on the way we spend it. Time, like water, is shapeless and formless in itself and attains its shape and form through our experiences. Clarity about our own value of time and understanding the experiences we share with time is the first step to successfully navigating this negotiation. 
 
 What’s the next step, you ask? I am still in the first step, making sense of my relationship with time. I believe the second step is to use this understanding to communicate the same to the next person and then engaging with them, but I am not there yet.
