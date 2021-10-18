@@ -3,7 +3,7 @@ layout: post
 title: "\U0001F680 The Room Where Decisions Are Made"
 published: true
 ---
-_I completed a year working on a project that I dearly love - contributing towards setting up a university from scratch. When I sat down to reflect on the year that went by, one thing stood out._
+_Reflections from a year spent close the to the room where decisions were made._
 
 ----
 
