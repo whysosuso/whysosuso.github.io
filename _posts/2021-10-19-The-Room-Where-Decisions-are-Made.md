@@ -30,7 +30,7 @@ To help visualize this process better, imagine it to be a river leading into the
 I can only speak of the validity of this process from a point where you start with the access. What is paramount is getting access to this room where decisions are made. It seems like I have subconsciously made sure that I land up there, but there have to be ways that could lead someone there, something I will try to write about soon. This blog is already longer than what I intended it to be, so let’s end here for now. Good luck with your journey! 
 
 _**Thanks** to Meghna and Saloni Mehta for reading earlier drafts and helping with the edits._
-_You may also like something I wrote about my learnings from my first job at a start-up [read here](https://whysosuso.com/Never-A-Dull-Day-Working-At-A-Startup/)!
+<p>You may also like something I wrote about my learnings from my first job at a start-up:[read here](https://whysosuso.com/Never-A-Dull-Day-Working-At-A-Startup/)!</P>
 
 ----
 
