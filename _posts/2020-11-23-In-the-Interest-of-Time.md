@@ -45,7 +45,7 @@ I am keen on exploring the concept of time further, especially understanding how
 
 Edit: I had initially put a linear graph to represent the TVH. Harshit Agarwal, a friend, probed further and pointed out how "since time is a very expensive resource, every additional hour spent with a person signals not just an additional unit of value but something greater than that. Especially true when the number of hours spent with a person grows large." I do agree with this and will be working to explore this aspect further in the future blogs.
 
-_**Thanks** to Akshat, Meghna, and Saloni for reading earlier drafts._
+_**Thanks** to Akshat Vachher, Harshit Agarwal, Meghna, and Saloni Mehta for reading earlier drafts._
 
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
