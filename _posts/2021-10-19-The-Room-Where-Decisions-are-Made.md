@@ -16,7 +16,7 @@ A function of high interest (crafting the founding Undergraduate cohort) ensured
 Being in the room where decisions are taken has worked really well for me. It put me in a position where I could **observe, learn and influence** - three things that I believe go a long way in building an impactful career. I have been able to put this together only retrospectively, so I wouldn’t say that I knew what I was doing when I was doing it. Reaching this realization involved a lot of trials, most of them filled with errors. 
 
 <p align="center">
-  <img class="img-responsive" src="https://drive.google.com/file/d/1zh7JINmqYWJx3LE0vf-qIlLcwI-XxtPr/view?usp=sharing">
+  <img class="img-responsive" src="https://i.ibb.co/PgFkx7P/Suso.png">
 </p>
 
 **Observe**. The first step is to take time to read the room, look around and soak in how things work. Limiting judgments and approaching every conversation with an open mind helped me. If you are like me, there will always be an urge to express your point of view. It was difficult to modulate this urge, but I could see the long-term benefits... I realized that I can participate by actively observing, especially at the beginning. Participation doesn’t only have to be through voicing opinions, especially when they may be half-baked. 
