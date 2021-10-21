@@ -29,7 +29,7 @@ To help visualize this process better, imagine it to be a river leading into the
 
 I can only speak of the validity of this process from a point where you start with the access. What is paramount is getting access to this room where decisions are made. It seems like I have subconsciously made sure that I land up there, but there have to be ways that could lead someone there, something I will try to write about soon. This blog is already longer than what I intended it to be, so let’s end here for now. Good luck with your journey! 
 
-_**Thanks** to Meghna and Saloni Mehta for reading earlier drafts and helping with the edits._
+_**Thanks** to Meghna, Sajal Sehgal and Saloni Mehta for reading earlier drafts and helping with ideas and edits._
 
 ----
 
