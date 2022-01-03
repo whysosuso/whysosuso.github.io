@@ -4,6 +4,7 @@ title: The Indie Bookshop Project
 permalink: /independent-bookshops/
 published: true
 ---
+A list of independent bookstores from across India. 
 
 I have always loved small quaint bookshops. Owned by people who care deeply about the books they sell and in the process create an experience 
 out of every purchase for the customer. There are several articles out there on how Amazon is killing the businesses of these small bookshops, so I 
