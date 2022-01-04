@@ -21,7 +21,7 @@ consider browsing through their catalogues. I wish to travel across the country 
 
 <p align="center">
   <img class="img-responsive" src="https://i.ibb.co/mJQSnRQ/Postcard-Ukiyo.jpg">
-  <br>Here's a postcard from Martin who runs Ukiyo, a bookshop in Manipur.
+<br>Here's a postcard from Martin who runs Ukiyo, a bookshop in Manipur.
 </p>
 
 Happy reading!
