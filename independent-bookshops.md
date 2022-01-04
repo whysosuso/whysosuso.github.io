@@ -39,4 +39,4 @@ For edits or additions please write to me at [suso.mahapatra@gmail.com](mailto:s
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-Last updated on August 29, 2021.
+Last updated on January 4, 2022.
