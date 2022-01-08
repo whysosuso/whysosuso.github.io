@@ -13,7 +13,7 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 ✔️ Here's a running _[bucket list](https://whysosuso.com/Susovan-Mahapatra-bucket-list/)_ of things I want to do before I die. 
 
 <p align="center">
-<img class="img-responsive" src="https://i.ibb.co/hHZMKDs/Susovan.png" style="width:300px;height:300px;">
+<img class="img-responsive" src="https://i.ibb.co/BPx9mGk/Susovan.png" style="width:300px;height:300px;">
 </p>
 
 I really enjoy setting things up; working on projects from scratch and creating systems for scale. I am passionate about the rapidly evolving Higher Education space across the world and I am currently helping set a University up! 
