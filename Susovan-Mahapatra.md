@@ -35,7 +35,7 @@ Found anything interesting here?
 
 **Write to me**
 
-[suso.@whysosuso.com](mailto:suso.@whysosuso.com)
+[suso@whysosuso.com](mailto:suso@whysosuso.com)
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
