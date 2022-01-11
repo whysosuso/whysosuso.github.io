@@ -59,7 +59,7 @@ I am writing this to familiarise more people with the process and with the hope 
 _**Thanks** to Kanchi Khanna, Kristin Greene, Saloni Mehta and Mudit Lal for reading earlier drafts._
 
 ----
-If you are a student, parent or educator looking to understand holistic admissions better, please do check out [New Admissions](https://newadmissions.whysosuso.com), a project I am working on. 
+If you are a student, parent or educator looking to **understand holistic admissions better**, please do check out **[New Admissions]**(https://newadmissions.whysosuso.com), a project I am working on. 
 <br>
 <br>
 An excerpt from this blog found its way into The Ken's [Ed Set Go Newsletter](https://the-ken.com/edsetgo/will-byjus-have-a-spac-tacular-public-debut/)!
