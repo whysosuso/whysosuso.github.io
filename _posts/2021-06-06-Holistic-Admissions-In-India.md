@@ -61,7 +61,9 @@ _**Thanks** to Kanchi Khanna, Kristin Greene, Saloni Mehta and Mudit Lal for rea
 ----
 If you are a student, parent or educator looking to understand holistic admissions better, please do check out [New Admissions](https://newadmissions.whysosuso.com), a project I am working on. 
 <br>
+<br>
 An excerpt from this blog found its way into The Ken's [Ed Set Go Newsletter](https://the-ken.com/edsetgo/will-byjus-have-a-spac-tacular-public-debut/)!
+<br>
 <br>
 I would love to stay in touch with you. Please do drop your email address here so I could update you about the (mostly exciting) things I am up to!
 
