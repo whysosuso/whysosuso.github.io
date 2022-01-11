@@ -59,8 +59,9 @@ I am writing this to familiarise more people with the process and with the hope 
 _**Thanks** to Kanchi Khanna, Kristin Greene, Saloni Mehta and Mudit Lal for reading earlier drafts._
 
 ----
-An excerpt from this blog found its way into The Ken's [Ed Set Go Newsletter](https://the-ken.com/edsetgo/will-byjus-have-a-spac-tacular-public-debut/)!
+If you are a student, parent or educator looking to understand holistic admissions better, please do check out [New Admissions](https://newadmissions.whysosuso.com), a project I am working on. 
 <br>
+An excerpt from this blog found its way into The Ken's [Ed Set Go Newsletter](https://the-ken.com/edsetgo/will-byjus-have-a-spac-tacular-public-debut/)!
 <br>
 I would love to stay in touch with you. Please do drop your email address here so I could update you about the (mostly exciting) things I am up to!
 
