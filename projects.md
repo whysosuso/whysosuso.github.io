@@ -27,8 +27,8 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
   
 **New Admissions** - I want to make the Holistic Admissions ecosystem more accessible to students, parents and educators from all backgrounds by creating high quality resources. New Admissions is your guide to Holistic College Admissions in India.
 
-  _<a href="https://newadmissions.whysosuso.com" target="_blank">Check the website for more details</a>
-_<br>Status: Ongoing_
+  _You can check <a href="https://newadmissions.whysosuso.com" target="_blank">the website</a> for updates._
+<br>_Status: Ongoing_
  
  **Equity in Higher Education** - An attempt to bring equity into higher education in India. We aim to mentor Bahujan students for undergraduate programs in top private universities across India. Currently driven by a group of Ashoka University Alumni and Students in partnership with <a href="https://twitter.com/equityinpolicy" target="_blank">Equity in Policy Education.</a>
 
