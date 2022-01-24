@@ -25,11 +25,9 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
   _<a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay)._
  _<br>Status: Ongoing_
   
-**HigherEd Article Series** - I have been fascinated by the Higher Education space in India since my time at Ashoka. Over the next few months, I will be working on publishing essays on Holistic Admissions, Collective Philanthrophy and more. 
+**New Admissions** - I want to make the Holistic Admissions ecosystem more accessible to students, parents and educators from all backgrounds by creating high quality resources. New Admissions is your guide to Holistic College Admissions in India.
 
-Update: Considering to turn this into a Substack newsletter. 
-
-  _<a href="https://whysosuso.com/Holistic-Admissions-In-India/" target="_blank">Here's</a> the first article titled 'Holistic Admissions In India'._
+  _<a href="https://newadmissions.whysosuso.com" target="_blank">Check the website for more details</a>
 _<br>Status: Ongoing_
  
  **Equity in Higher Education** - An attempt to bring equity into higher education in India. We aim to mentor Bahujan students for undergraduate programs in top private universities across India. Currently driven by a group of Ashoka University Alumni and Students in partnership with <a href="https://twitter.com/equityinpolicy" target="_blank">Equity in Policy Education.</a>
