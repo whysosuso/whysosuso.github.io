@@ -39,4 +39,4 @@ For edits or additions please write to me at [suso@whysosuso.com](mailto:suso@wh
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-Last updated on January 4, 2022.
+Last updated on February 8, 2022.
