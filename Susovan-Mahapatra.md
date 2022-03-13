@@ -45,4 +45,4 @@ Found anything interesting here?
 
 _Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
 
-Last updated on June 6, 2021.
+Last updated on March 13, 2022.
