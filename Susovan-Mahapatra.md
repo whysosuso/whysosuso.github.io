@@ -17,7 +17,7 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 <img class="img-responsive" src="https://i.ibb.co/BPx9mGk/Susovan.png" style="width:300px;height:300px;">
 </p>
 
-I spent my childhood in Bhubaneswar, the city with the best evenings. I had a comfortable time growing up, other than some instances of bullying at school that have shaped quite a bit of who I am today. I value friendships and try to do my bit by growing them. I have always been curious (the kind that reads food packaging labels) and love asking 'why'. In 7th grade, I decided that I wanted to start my own company - for now, though, I take solace in working with early-stage startups and pursuing some interesting [projects](https://whysosuso.com/projects/) once in a while.
+I spent my childhood in Bhubaneswar, the city with the best evenings. I had a comfortable time growing up, other than some instances of bullying at school that have shaped quite a bit of who I am today. I value friendships and spend time on growing them. I have always been curious (the kind that reads food packaging labels) and love asking 'why'. In 7th grade, I decided that I wanted to start my own company - for now, though, I take solace in working with early-stage startups and pursuing some interesting [projects](https://whysosuso.com/projects/) once in a while.
 
 I am passionate about the Education space, primarily because of the business opportunities and the scope for creating impact that come with it. I enjoy setting things up, working on projects from scratch, and creating systems for scale. Most recently, I helped set a University up!
 
@@ -25,7 +25,7 @@ Things I have been upto:
 
 ▶️ I have built and managed communities as part of **Ashoka university**'s Second UG Cohort. I was even awarded the Student Life Award for Excellence for my "exceptional and holistic contribution towards creating an enriching and inspiring campus experience outside the classroom". I have continued to help build the community as an elected director of the Ashoka Alumni Association.<br>
 ▶️ After Ashoka, my interest in startups and education coincided led me to a **bootstrapped alternate education venture**, School of Accelerated Learning. Here I created and executed growth strategies. I saw through rapid growth and two cycles of VC funding while I was there.<br>
-▶️ Being in the **founding team of a University** is almost a once-in-a-lifetime opportunity; I jumped ship to join Plaksha when I realized I could be part of a project that would potentially have an impact for several centuries. At Plaksha, I worked on processes and systems to onboard the most exemplary learners for its founding UG cohort.<br>
+▶️ Being in the **founding team of a University** is almost a once-in-a-lifetime opportunity; I jumped ship to join Plaksha when I realized I could be part of a project that would potentially have an impact on the entire higher education landscape of India. At Plaksha, I worked on processes and systems to onboard the most exemplary learners for its founding UG cohort.<br>
 ▶️ In my current role at Stoa School, I am picking up the trade tricks on **designing learning programs and products**, especially in the context of cohort-based courses.<br>
 
 I go the extra mile for people, institutions, causes, and destinations (yes, I love to travel, run and cycle) that I admire.
