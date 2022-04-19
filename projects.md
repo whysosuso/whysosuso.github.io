@@ -10,6 +10,12 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
 
 <h5>Here are some active projects:</h5>
 
+**New Admissions** - I want to make the Holistic Admissions ecosystem more accessible to students, parents and educators from all backgrounds by creating high quality resources. New Admissions is your guide to Holistic College Admissions in India.
+
+  _You can check <a href="https://newadmissions.whysosuso.com" target="_blank">this page</a> for updates._ <a href="https://whysosuso.notion.site/New-Admissions-602a1d29c67a4c02a3dd44aaa18c16e4" target="_blank"> Join me as the founding intern!</a>
+<br>_Status: Ongoing_
+
+
 **Baksa** - A subscription box that acquaints you with a particular place & its culture. A carefully curated box of edibles, trinkets, literature and more, just enough to give you a sneak peek into the culture and stories of places far from you, one _baksa_ at a time. I will write about the origin of the idea and the execution process once the first set of boxes and ready and sold. 
 
   _You can check <a href="https://www.getbaksa.com/" target="_blank">here</a> for updates._
@@ -25,10 +31,6 @@ These projects keep me sane, if 3 out of 5 things I am working on are going okay
   _<a href="https://www.instagram.com/hopskipstay/" target="_blank">Here's</a> the instagram page (@hopskipstay)._
  _<br>Status: Ongoing_
   
-**New Admissions** - I want to make the Holistic Admissions ecosystem more accessible to students, parents and educators from all backgrounds by creating high quality resources. New Admissions is your guide to Holistic College Admissions in India.
-
-  _You can check <a href="https://newadmissions.whysosuso.com" target="_blank">this page</a> for updates._
-<br>_Status: Ongoing_
  
  **Equity in Higher Education** - An attempt to bring equity into higher education in India. We aim to mentor Bahujan students for undergraduate programs in top private universities across India. Currently driven by a group of Ashoka University Alumni and Students in partnership with <a href="https://twitter.com/equityinpolicy" target="_blank">Equity in Policy Education.</a>
 
