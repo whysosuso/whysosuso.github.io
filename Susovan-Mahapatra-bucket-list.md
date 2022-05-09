@@ -51,6 +51,6 @@ Operating rule is that I am not allowed to delete anything from the list, things
 
 - **Work with a startup**
 
-- Share a flat with one of my best friends in my 20s
+- Share a flat with one (or more) of my best friends in my 20s
 
 - Cook a 3 course meal for family and friends
