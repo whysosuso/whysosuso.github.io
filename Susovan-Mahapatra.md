@@ -23,7 +23,7 @@ I am passionate about the Education space, primarily because of the business opp
 
 Things I have been upto: 
 
-▶️ In my current role at **Stoa School**, I am picking up the trade tricks on **designing learning programs and products**, especially in the context of cohort-based courses.<br> <br>
+▶️ In my current role at **Stoa School**, I am picking up the trade tricks on **designing learning programs and products**, especially in the context of adult learning. <br> <br>
 
 ▶️ Being in the **founding team of a University** is almost a once-in-a-lifetime opportunity. As part of **Plaksha University's** founding team, I worked closely with the Founders and Senior Leadership to set up its Holistic Admissions Process and onboard an exemplary set of learners for its founding UG cohort. <br> <br>
 
