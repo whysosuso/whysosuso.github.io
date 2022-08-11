@@ -48,6 +48,6 @@ Found anything interesting here?
 
 [suso@whysosuso.com](mailto:suso@whysosuso.com)
 
-_Let us connect on [Twitter](https://www.twitter.com/whysosuso/)!_
+_Let us connect on [Twitter](https://www.twit,ter.com/whysosuso/)!_
 
 Last updated on August 11, 2022.
