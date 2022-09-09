@@ -19,7 +19,7 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 
 I spent my childhood in Bhubaneswar, the city with the best evenings. I value friendships and spend time on growing them. I have always been curious (the kind that reads food packaging labels) and love asking 'why'. In 7th grade, I decided that I wanted to start my own company - for now, though, I take solace in working with early-stage startups and pursuing some interesting [projects](https://whysosuso.com/projects/) once in a while.
 
-I am passionate about the Education space, primarily because of the business opportunities and the scope for creating impact that come with it. I enjoy setting things up, working on projects from scratch, and creating systems for scale. Most recently, I helped set a University up!
+I enjoy setting things up, working on projects from scratch, and creating systems for scale. Most recently, I helped set a University up!
 
 Things I have been upto: 
 
