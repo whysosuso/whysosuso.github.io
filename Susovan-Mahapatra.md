@@ -3,7 +3,7 @@ permalink: /Susovan-Mahapatra/
 published: true
 ---
 
-Hi, I am Susovan Mahapatra, a 25-year-old with a lot of ideas.
+Hi, I am Susovan Mahapatra, a 2o-something-year-old with a lot of ideas.
 
 I love conversations, building things, chai (coffee too!), running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
@@ -19,13 +19,14 @@ I love conversations, building things, chai (coffee too!), running, cycling, rea
 
 I spent my childhood in Bhubaneswar, the city with the best evenings. I value friendships and spend time on growing them. I have always been curious (the kind that reads food packaging labels) and love asking 'why'. In 7th grade, I decided that I wanted to start my own company - for now, though, I take solace in working with early-stage startups and pursuing some interesting [projects](https://whysosuso.com/projects/) once in a while.
 
-I enjoy setting things up, working on projects from scratch, and creating systems for scale. Most recently, I helped set a University up!
+I enjoy setting things up, working on projects from scratch, and creating systems for scale. Currently, I am working towards building some of the most loved lifestyle brands in India. Previously, among other things, I had the opportunity in contributing towards setting a University up!
 
-Things I have been upto: 
+Things I have been upto (Career): 
 
-▶️ I am currently a part of the first cohort of the **Antler India Residency**. Finally giving entrepreneurship a shot!<br> <br>
+▶️ Since 2023, I have been driving customer experience, insights, and, most recently, offline expansion for DSLR Technologies. We are an early-stage startup building some of the most loved lifestyle and fashion brands, powered by a vertically integrated supply chain. We are backed by Z47 (Matrix) and Accel. <br> <br>
 
-▶️ In my brief stint at **Stoa School**, I picked up the trade tricks on **designing learning programs and products**, especially in the context of adult learning. <br> <br>
+▶️ I spent a year between 2022-23 giving entrepreneurship a shot. Was part of the first cohort of the **Antler India Residency**. Made a bunch of friends and realised that I had much more to learn. Attempt 2 to follow some years down the line <br> <br>
+
 
 ▶️ Being in the **founding team of a University** is almost a once-in-a-lifetime opportunity. As part of **Plaksha University's** founding team, I worked closely with the Founders and Senior Leadership to set up its Holistic Admissions Process and onboard an exemplary set of learners for its founding UG cohort. <br> <br>
 
