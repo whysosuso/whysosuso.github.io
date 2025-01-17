@@ -3,7 +3,7 @@ permalink: /Susovan-Mahapatra/
 published: true
 ---
 
-Hi, I am Susovan Mahapatra, a 2o-something-year-old with a lot of ideas.
+Hi, I am Susovan Mahapatra, a 20-something-year-old with a lot of ideas.
 
 I love conversations, building things, chai (coffee too!), running, cycling, reading and consuming comedy. I use this space to put structure to my thoughts and share it with people who care.
 
