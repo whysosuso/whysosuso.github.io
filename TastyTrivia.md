@@ -1,6 +1,15 @@
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCGh83OGKU7XIsavNg0O9edc4poL1xHtCeX9PdT_7IP27lUA/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div style="position: relative; width: 100%; padding-top: 150%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLScCGh83OGKU7XIsavNg0O9edc4poL1xHtCeX9PdT_7IP27lUA/viewform?embedded=true" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+    allowfullscreen 
+    loading="lazy">
+  </iframe>
+</div>
+
 
 
 **Tasty Trivia: Rice, Spice and Everything Nice**
