@@ -9,7 +9,9 @@ _Where 'wait, I actually know this!' meets bragging rights & fun goodies as priz
 
 **Prizes** There will be goodies to be won throughout the event. We're excited to have Dorje Teas as our beverage partner, so expect lots of A-grade Darjeeling tea among the prizes!
 
-**Your Hosts** [Saloni](https://in.linkedin.com/in/reach-saloni) and [Susovan](https://in.linkedin.com/in/whysosuso) are hosting this event. They're enthusiastic about creating a fun, welcoming environment for all participants.
+**Your Hosts** <a href="https://in.linkedin.com/in/reach-saloni" target="_blank">Saloni</a> and 
+<a href="https://in.linkedin.com/in/whysosuso" target="_blank">Susovan</a>
+are hosting this event. They're enthusiastic about creating a fun, welcoming environment for all participants.
 
 **Join Us** Whether you're a trivia veteran or newcomer, come ready to learn something new and have a good time.
 
