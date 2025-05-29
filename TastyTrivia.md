@@ -1,7 +1,7 @@
 
 ## Tasty Trivia | Edition 1 | Rice, Spice and Everything Nice
 
-> ### "Where 'wait, I actually know this!' meets premium Darjeeling tea and bragging rights
+_Where 'wait, I actually know this!' meets bragging rights & fun goodies as prizes_
 
 **About the Event** Tasty Trivia brings together people who enjoy tackling random facts and brain teasers. Whether you're coming solo, with a friend, or as a date night activity, you're in for an engaging evening.
 
@@ -23,4 +23,3 @@
     loading="lazy">
   </iframe>
 </div>
-
