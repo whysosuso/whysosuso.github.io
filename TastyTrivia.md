@@ -1,5 +1,5 @@
 
-## Tasty Trivia | Edition 1 | Rice, Spice and Everything Nice
+**Tasty Trivia | Edition 1 | Rice, Spice and Everything Nice**
 
 _Where 'wait, I actually know this!' meets bragging rights & fun goodies as prizes_
 
