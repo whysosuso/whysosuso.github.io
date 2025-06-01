@@ -4,7 +4,7 @@
 
 _Where 'wait, I actually know this!' meets bragging rights & fun goodies as prizes_
 
-
+![Tasty Trivia Rice Spice and Everything Nice](https://i.ibb.co/39Tyhdm7/Tasty-Trivia-Rice-Spice-and-Everything-Nice.png)
 
 <div style="position: relative; width: 100%; padding-top: 150%; height: 0; overflow: hidden;">
   <iframe 
